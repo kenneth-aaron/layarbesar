@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2009 &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/year/2009/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Feb 2017 12:43:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>2009 &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Boys Over Flowers</title>
+		<link>https://layarbesar.ga/tv/boys-over-flowers/</link>
+					<comments>https://layarbesar.ga/tv/boys-over-flowers/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 12:43:42 +0000</pubDate>
+				<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[korea]]></category>
+		<category><![CDATA[rich kids]]></category>
+		<category><![CDATA[rich parents]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?post_type=tv&#038;p=32</guid>
+
+					<description><![CDATA[A working class girl winds up at an exclusive prep school. Unassuming high school girl Jan Di stands up to&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A working class girl winds up at an exclusive prep school. Unassuming high school girl Jan Di stands up to &#8212; and eventually falls for &#8212; a spoiled rich kid who belongs to the school&#8217;s most powerfu clique.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/tv/boys-over-flowers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Avatar</title>
+		<link>https://layarbesar.ga/avatar/</link>
+					<comments>https://layarbesar.ga/avatar/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 12:30:45 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[alien]]></category>
+		<category><![CDATA[alien planet]]></category>
+		<category><![CDATA[anti war]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[cgi]]></category>
+		<category><![CDATA[culture clash]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[futuristic]]></category>
+		<category><![CDATA[love affair]]></category>
+		<category><![CDATA[marine]]></category>
+		<category><![CDATA[mind and soul]]></category>
+		<category><![CDATA[power relations]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[society]]></category>
+		<category><![CDATA[soldier]]></category>
+		<category><![CDATA[space]]></category>
+		<category><![CDATA[space colony]]></category>
+		<category><![CDATA[space travel]]></category>
+		<category><![CDATA[space war]]></category>
+		<category><![CDATA[tribe]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=20</guid>
+
+					<description><![CDATA[In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/avatar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

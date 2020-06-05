@@ -1,0 +1,2581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Idmuvi Core 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-23 15:19+0700\n"
+"PO-Revision-Date: 2020-03-23 15:19+0700\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: Gian Mokhammad R <g14nblog@gmail.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../idmuvi-core.php:168
+msgid "Movie data loaded. Wait a second."
+msgstr "Data film sedang dimuat. Harap tunggu sebentar."
+
+#: ../idmuvi-core.php:169
+msgid "Load More"
+msgstr "Muat Lebih"
+
+#: ../idmuvi-core.php:171
+msgid "No more movie."
+msgstr "Tidak ada lagi film."
+
+#: ../lib/ajax_search.php:50
+msgid "No results"
+msgstr "Tidak ada hasil"
+
+#: ../lib/amember_http_api.php:19
+msgid "Muvipro License"
+msgstr "Lisensi Muvipro"
+
+#: ../lib/amember_http_api.php:185 ../lib/amember_http_api.php:233
+#: ../lib/amember_http_api.php:306 ../lib/amember_http_api.php:334
+msgid "An error occurred, please try again."
+msgstr "Terjadi kesalahan, coba lagi."
+
+#: ../lib/amember_http_api.php:193 ../lib/amember_http_api.php:314
+msgid "Empty or invalid license key submitted."
+msgstr "Kosong atau kunci lisensi yang diajukan tidak valid."
+
+#: ../lib/amember_http_api.php:197 ../lib/amember_http_api.php:318
+msgid "License key not found on our server."
+msgstr "Kunci lisensi tidak ditemukan pada server kami."
+
+#: ../lib/amember_http_api.php:201
+msgid "License key has been disabled."
+msgstr "Kunci lisensi telah dinonaktifkan."
+
+#: ../lib/amember_http_api.php:205
+msgid "Your license key expired on"
+msgstr "Kunci lisensi anda berakhir pada"
+
+#: ../lib/amember_http_api.php:209 ../lib/amember_http_api.php:322
+msgid "Activation server error."
+msgstr "Kesalahan server aktivasi."
+
+#: ../lib/amember_http_api.php:213 ../lib/amember_http_api.php:326
+msgid "Activation failed: invalid input."
+msgstr "Aktivasi gagal: input tidak valid."
+
+#: ../lib/amember_http_api.php:217
+msgid "No more activations allowed. You must buy new license key."
+msgstr ""
+"Tidak ada lagi aktivasi yang diperbolehkan. Anda harus membeli kunci lisensi "
+"baru."
+
+#: ../lib/amember_http_api.php:221
+msgid "No activation found for this installation."
+msgstr "Tidak ada aktivasi ditemukan untuk instalasi ini."
+
+#: ../lib/amember_http_api.php:225
+msgid "Re-activation is not allowed"
+msgstr "Re-aktivasi tidak diperbolehkan"
+
+#: ../lib/amember_http_api.php:229 ../lib/amember_http_api.php:330
+msgid "Error returned from activation server"
+msgstr "Kesalahan kembali dari server aktivasi"
+
+#: ../lib/blog/blog.cpt.php:78
+msgid "Blog"
+msgstr "Blog"
+
+#: ../lib/blog/blog.cpt.php:79
+msgid "Parent Blog"
+msgstr "Blog Induk"
+
+#: ../lib/blog/blog.cpt.php:80
+msgid "All Blogs"
+msgstr "Semua Blog"
+
+#: ../lib/blog/blog.cpt.php:81
+msgid "View Blog"
+msgstr "Lihat Blog"
+
+#: ../lib/blog/blog.cpt.php:82
+msgid "Add Blog"
+msgstr "Tambah Blog"
+
+#: ../lib/blog/blog.cpt.php:83 ../lib/movie/taxonomy-post-type.php:381
+#: ../lib/movie/taxonomy-post-type.php:438
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: ../lib/blog/blog.cpt.php:84
+msgid "Edit Blog"
+msgstr "Ubah Blog"
+
+#: ../lib/blog/blog.cpt.php:85
+msgid "Update Blog"
+msgstr "Perbaharui Blog"
+
+#: ../lib/blog/blog.cpt.php:86
+msgid "Search Blog"
+msgstr "Cari Blog"
+
+#: ../lib/blog/blog.cpt.php:87
+msgid "Not blog found"
+msgstr "Blog Tidak Ditemukan"
+
+#: ../lib/blog/blog.cpt.php:88 ../lib/movie/taxonomy-post-type.php:386
+#: ../lib/movie/taxonomy-post-type.php:443
+msgid "Not found in Trash"
+msgstr "Tidak ditemukan di Tempat Sampah"
+
+#: ../lib/blog/blog.cpt.php:131
+msgid "Search Categories"
+msgstr "Cari kategori"
+
+#: ../lib/blog/blog.cpt.php:132
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: ../lib/blog/blog.cpt.php:133
+msgid "Parent Category"
+msgstr "Kategori Utama"
+
+#: ../lib/blog/blog.cpt.php:134
+msgid "Parent Category:"
+msgstr "Kategori Utama:"
+
+#: ../lib/blog/blog.cpt.php:135
+msgid "Edit Category"
+msgstr "Ubah Kategori"
+
+#: ../lib/blog/blog.cpt.php:136
+msgid "Update Category"
+msgstr "Perbaharui Kategori"
+
+#: ../lib/blog/blog.cpt.php:137
+msgid "Add New Category"
+msgstr "Tambah Baru Kategori"
+
+#: ../lib/blog/blog.cpt.php:138
+msgid "New Category Name"
+msgstr "Nama Kategori Baru"
+
+#: ../lib/blog/blog.cpt.php:139
+msgid "Categories"
+msgstr "Kategori"
+
+#: ../lib/blog/blog.cpt.php:157
+msgid "Tags"
+msgstr "Label"
+
+#: ../lib/blog/blog.cpt.php:158
+msgid "All Tags"
+msgstr "Semua Label"
+
+#: ../lib/blog/blog.cpt.php:159
+msgid "Parent Tag"
+msgstr "Label Utama"
+
+#: ../lib/blog/blog.cpt.php:160
+msgid "Parent Tag:"
+msgstr "Label Utama:"
+
+#: ../lib/blog/blog.cpt.php:161
+msgid "New Tag Tag"
+msgstr "Label label baru"
+
+#: ../lib/blog/blog.cpt.php:162
+msgid "Add New Item"
+msgstr "Tambah Baru Item"
+
+#: ../lib/blog/blog.cpt.php:163
+msgid "Edit Tag"
+msgstr "Ubah Label"
+
+#: ../lib/blog/blog.cpt.php:164
+msgid "Update Tag"
+msgstr "Perbaharui Label"
+
+#: ../lib/blog/blog.cpt.php:165
+msgid "View Tag"
+msgstr "Lihat Label"
+
+#: ../lib/blog/blog.cpt.php:166
+msgid "Separate items with commas"
+msgstr "Pisahkan item dengan koma"
+
+#: ../lib/blog/blog.cpt.php:167
+msgid "Add or remove items"
+msgstr "Tambah atau hapus item"
+
+#: ../lib/blog/blog.cpt.php:168
+msgid "Choose from the most used"
+msgstr "Pilih dari penggunaan terbanyak"
+
+#: ../lib/blog/blog.cpt.php:169
+msgid "Popular Tags"
+msgstr "Label Populer"
+
+#: ../lib/blog/blog.cpt.php:170
+msgid "Search Tags"
+msgstr "Cari Label"
+
+#: ../lib/blog/blog.cpt.php:171
+msgid "Not Found"
+msgstr "Tidak Ditemukan"
+
+#: ../lib/blog/blog.cpt.php:172
+msgid "No items"
+msgstr "Tidak ada item"
+
+#: ../lib/blog/blog.cpt.php:173
+msgid "Tags list"
+msgstr "Daftar label"
+
+#: ../lib/blog/blog.cpt.php:174
+msgid "Tags list navigation"
+msgstr "Navigasi daftar label"
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:32
+msgid "A list or dropdown of categories blog."
+msgstr "List atau dropdown kategori blog."
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:35
+msgid "Categories Blog (Idmuvi)"
+msgstr "Kategori Blog (Idmuvi)"
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:77
+msgid "Select Category"
+msgstr "Seleksi Kategori"
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:34
+msgid "Recent blogs with thumbnails widget."
+msgstr "Widget blog terbaru dengan thumbnail."
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:36
+msgid "Recent Blogs (Idmuvi)"
+msgstr "Blog Terbaru (Idmuvi)"
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:176
+#: ../widgets/mostview-posts-widget.php:200
+#: ../widgets/recent-posts-widget.php:170
+msgid "Permalink to: "
+msgstr "Permalink ke: "
+
+#: ../lib/blog/widgets/search-blogs-widget.php:32
+msgid "Add search for documentation."
+msgstr "Menambahkan pencarian untuk dokumentasi."
+
+#: ../lib/blog/widgets/search-blogs-widget.php:35
+msgid "Search Blogs (Idmuvi)"
+msgstr "Pencarian Blog (Idmuvi)"
+
+#: ../lib/external/class.settings-api.php:383
+msgid "Choose File"
+msgstr "Pilih File"
+
+#: ../lib/movie/metabox.eps.php:337
+msgid "Find Episode"
+msgstr "Cari Episode"
+
+#: ../lib/movie/metabox.eps.php:516
+msgid ""
+"Please insert id tmdb for episode.<br/>Example link from tmdb https://www."
+"themoviedb.org/tv/<strong>30991</strong>/season/<strong>1</strong>/episode/"
+"<strong>25</strong> (Just insert with <strong>30991</strong> - <strong>1</"
+"strong> - <strong>25</strong>)."
+msgstr ""
+"Silahkan masukkan id tmdb untuk episode.<br/>Contoh link dari tmdb https://"
+"www.themoviedb.org/tv/<strong>30991</strong>/season/<strong>1</strong>/"
+"episode/<strong>25</strong> (Cukup masukkan dengan <strong>30991</strong> - "
+"<strong>1</strong> - <strong>25</strong>)."
+
+#: ../lib/movie/metabox.eps.php:576
+msgid ""
+"Example link from tmdb https://www.themoviedb.org/tv/<strong>30991</strong>/"
+"season/1/episode/25 (Just insert with <strong>30991</strong>."
+msgstr ""
+"Contoh link dari tmdb https://www.themoviedb.org/tv/<strong>30991</strong>/"
+"season/1/episode/25 (Cukup masukkan dengan <strong>30991</strong>."
+
+#: ../lib/movie/metabox.php:487
+msgid "Find Movie"
+msgstr "Cari Film"
+
+#: ../lib/movie/metabox.php:669
+msgid ""
+"You can insert id from imdb or tmdb.<br/>Example link imdb: http://www.imdb."
+"com/title/<strong>tt2582802</strong>/ (Just insert with <strong>tt2582802</"
+"strong>).<br/>Example link from tmdb https://www.themoviedb.org/movie/"
+"<strong>244786</strong>-whiplash (Just insert with <strong>244786</strong>)."
+msgstr ""
+"Anda dapat memasukkan id dari imdb atau tmdb.<br/>Contoh link imdb: http://"
+"www.imdb.com/title/<strong>tt2582802</strong>/ (Cukup masukkan dengan "
+"<strong>tt2582802</strong>).<br/>Contoh link dari tmdb https://www."
+"themoviedb.org/movie/<strong>244786</strong>-whiplash (Cukup masukkan dengan "
+"<strong>244786</strong>)."
+
+#: ../lib/movie/metabox.tv.php:386
+msgid "Find TV Shows"
+msgstr "Cari TV Show"
+
+#: ../lib/movie/metabox.tv.php:502
+msgid ""
+"Please insert id tmdb.<br/>Example link from tmdb https://www.themoviedb.org/"
+"tv/<strong>30991</strong>-cowboy-bebop (Just insert with <strong>30991</"
+"strong>)."
+msgstr ""
+"Silahkan masukkan id tmdb.<br/>Contoh link dari tmdb https://www.themoviedb."
+"org/tv/<strong>30991</strong>-cowboy-bebop (Cukup masukkan dengan "
+"<strong>30991</strong>)."
+
+#: ../lib/movie/taxonomy-post-type.php:26
+#: ../lib/movie/taxonomy-post-type.php:44
+msgid "Movies"
+msgstr "Film"
+
+#: ../lib/movie/taxonomy-post-type.php:27
+msgid "All Movies"
+msgstr "Semua Film"
+
+#: ../lib/movie/taxonomy-post-type.php:28
+#: ../lib/movie/taxonomy-post-type.php:46
+msgid "Add Movie"
+msgstr "Tambahkan Film"
+
+#: ../lib/movie/taxonomy-post-type.php:45
+#: ../lib/movie/taxonomy-post-type.php:49
+msgid "Movie"
+msgstr "Film"
+
+#: ../lib/movie/taxonomy-post-type.php:47
+msgid "Add New movie"
+msgstr "Tambahkan film baru"
+
+#: ../lib/movie/taxonomy-post-type.php:48
+msgid "Edit Movie"
+msgstr "Ubah Film"
+
+#: ../lib/movie/taxonomy-post-type.php:85
+msgid "Genres"
+msgstr "Genre"
+
+#: ../lib/movie/taxonomy-post-type.php:86
+msgid "Genre"
+msgstr "Genre"
+
+#: ../lib/movie/taxonomy-post-type.php:89
+msgid "Search"
+msgstr "Cari"
+
+#: ../lib/movie/taxonomy-post-type.php:90
+msgid "Popular"
+msgstr "Populer"
+
+#: ../lib/movie/taxonomy-post-type.php:91
+msgid "All"
+msgstr "Semua"
+
+#: ../lib/movie/taxonomy-post-type.php:92
+#: ../lib/movie/taxonomy-post-type.php:93
+msgid "Parent"
+msgstr "Induk"
+
+#: ../lib/movie/taxonomy-post-type.php:94
+msgid "Edit"
+msgstr "Ubah"
+
+#: ../lib/movie/taxonomy-post-type.php:95
+msgid "Update"
+msgstr "Perbaharui"
+
+#: ../lib/movie/taxonomy-post-type.php:96
+msgid "Add new"
+msgstr "Tambah baru"
+
+#: ../lib/movie/taxonomy-post-type.php:97
+msgid "New"
+msgstr "Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:115
+msgid "Search Directors"
+msgstr "Cari Direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:116
+msgid "Popular Directors"
+msgstr "Populer Direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:117
+msgid "All Directors"
+msgstr "Semua Direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:120
+msgid "Edit Director"
+msgstr "Ubah Direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:121
+msgid "Update Director"
+msgstr "Perbaharui Direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:122
+msgid "Add New Director"
+msgstr "Tambah Direksi Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:123
+msgid "New Director Name"
+msgstr "Nama Direksi Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:124
+msgid "Separate directors with commas"
+msgstr "Pisahkan direksi dengan koma"
+
+#: ../lib/movie/taxonomy-post-type.php:125
+msgid "Add or remove directors"
+msgstr "Tambah atau hapus direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:126
+msgid "Choose from the most used directors"
+msgstr "Pilih dari direksi yang paling banyak digunakan"
+
+#: ../lib/movie/taxonomy-post-type.php:127
+msgid "No directors found."
+msgstr "Tidak ditemukan direksi."
+
+#: ../lib/movie/taxonomy-post-type.php:128
+msgid "Directors"
+msgstr "Direksi"
+
+#: ../lib/movie/taxonomy-post-type.php:149
+msgid "Search Casts"
+msgstr "Cari Pemain"
+
+#: ../lib/movie/taxonomy-post-type.php:150
+msgid "Popular Casts"
+msgstr "Pemain Populer"
+
+#: ../lib/movie/taxonomy-post-type.php:151
+msgid "All Casts"
+msgstr "Semua Pemain"
+
+#: ../lib/movie/taxonomy-post-type.php:154
+msgid "Edit Cast"
+msgstr "Ubah Pemain"
+
+#: ../lib/movie/taxonomy-post-type.php:155
+msgid "Update Cast"
+msgstr "Perbaharui Pemain"
+
+#: ../lib/movie/taxonomy-post-type.php:156
+msgid "Add New Cast"
+msgstr "Tambahkan Pemain Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:157
+msgid "New Cast Name"
+msgstr "Nama Pemain Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:158
+msgid "Separate casts with commas"
+msgstr "Pisahkan pemain dengan koma"
+
+#: ../lib/movie/taxonomy-post-type.php:159
+msgid "Add or remove casts"
+msgstr "Tambah atau hapus pemain"
+
+#: ../lib/movie/taxonomy-post-type.php:160
+msgid "Choose from the most used casts"
+msgstr "Pilih dari pemain yang paling banyak digunakan"
+
+#: ../lib/movie/taxonomy-post-type.php:161
+msgid "No casts found."
+msgstr "Tidak ditemukan pemain."
+
+#: ../lib/movie/taxonomy-post-type.php:162
+msgid "Casts"
+msgstr "Pemain"
+
+#: ../lib/movie/taxonomy-post-type.php:183
+msgid "Search Years"
+msgstr "Cari Tahun"
+
+#: ../lib/movie/taxonomy-post-type.php:184
+msgid "Popular Years"
+msgstr "Tahun Populer"
+
+#: ../lib/movie/taxonomy-post-type.php:185
+msgid "All Years"
+msgstr "Semua Tahun"
+
+#: ../lib/movie/taxonomy-post-type.php:188
+msgid "Edit Year"
+msgstr "Ubah Tahun"
+
+#: ../lib/movie/taxonomy-post-type.php:189
+msgid "Update Year"
+msgstr "Perbaharui Tahun"
+
+#: ../lib/movie/taxonomy-post-type.php:190
+msgid "Add New Year"
+msgstr "Tambahkan Tahun Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:191
+msgid "New Year Name"
+msgstr "Nama Tahun Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:192
+msgid "Separate years with commas"
+msgstr "Pisahkan tahun dengan koma"
+
+#: ../lib/movie/taxonomy-post-type.php:193
+msgid "Add or remove years"
+msgstr "Tambah atau hapus tahun"
+
+#: ../lib/movie/taxonomy-post-type.php:194
+msgid "Choose from the most used years"
+msgstr "Pilih tahun dari yang paling banyak digunakan"
+
+#: ../lib/movie/taxonomy-post-type.php:195
+msgid "No years found."
+msgstr "Tidak ditemukan tahun."
+
+#: ../lib/movie/taxonomy-post-type.php:196
+msgid "Years"
+msgstr "Tahun"
+
+#: ../lib/movie/taxonomy-post-type.php:217
+msgid "Search Countries"
+msgstr "Cari Negara"
+
+#: ../lib/movie/taxonomy-post-type.php:218
+msgid "Popular Countries"
+msgstr "Negara Populer"
+
+#: ../lib/movie/taxonomy-post-type.php:219
+msgid "All Countries"
+msgstr "Semua Negara"
+
+#: ../lib/movie/taxonomy-post-type.php:222
+msgid "Edit Country"
+msgstr "Ubah Negara"
+
+#: ../lib/movie/taxonomy-post-type.php:223
+msgid "Update Country"
+msgstr "Perbaharui Negara"
+
+#: ../lib/movie/taxonomy-post-type.php:224
+msgid "Add New Country"
+msgstr "Tambah Negara Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:225
+msgid "New Country Name"
+msgstr "Nama Negara Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:226
+msgid "Separate countries with commas"
+msgstr "Pisahkan negara dengan koma"
+
+#: ../lib/movie/taxonomy-post-type.php:227
+msgid "Add or remove countries"
+msgstr "Tambah atau hapus negara"
+
+#: ../lib/movie/taxonomy-post-type.php:228
+msgid "Choose from the most used countries"
+msgstr "Pilih negara dari yang paling banyak digunakan"
+
+#: ../lib/movie/taxonomy-post-type.php:229
+msgid "No countries found."
+msgstr "Tidak ditemukan Negara."
+
+#: ../lib/movie/taxonomy-post-type.php:230
+msgid "Countries"
+msgstr "Negara"
+
+#: ../lib/movie/taxonomy-post-type.php:251
+msgid "Search Networks"
+msgstr "Cari Jaringan"
+
+#: ../lib/movie/taxonomy-post-type.php:252
+msgid "Popular Networks"
+msgstr "Jaringan Populer"
+
+#: ../lib/movie/taxonomy-post-type.php:253
+msgid "All Networks"
+msgstr "Semua Jaringan"
+
+#: ../lib/movie/taxonomy-post-type.php:256
+msgid "Edit Network"
+msgstr "Ubah Jaringan"
+
+#: ../lib/movie/taxonomy-post-type.php:257
+msgid "Update Network"
+msgstr "Perbaharui Jaringan"
+
+#: ../lib/movie/taxonomy-post-type.php:258
+msgid "Add New Network"
+msgstr "Tambahkan Jaringan Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:259
+msgid "New Network Name"
+msgstr "Nama Jaringan Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:260
+msgid "Separate networks with commas"
+msgstr "Pisahkan jaringan dengan koma"
+
+#: ../lib/movie/taxonomy-post-type.php:261
+msgid "Add or remove networks"
+msgstr "Tambah atau hapus jaringan"
+
+#: ../lib/movie/taxonomy-post-type.php:262
+msgid "Choose from the most used networks"
+msgstr "Pilih jaringan dari yang paling banyak digunakan"
+
+#: ../lib/movie/taxonomy-post-type.php:263
+msgid "No networks found."
+msgstr "Tidak ditemukan jaringan."
+
+#: ../lib/movie/taxonomy-post-type.php:264
+msgid "Networks"
+msgstr "Jaringan"
+
+#: ../lib/movie/taxonomy-post-type.php:285
+msgid "Search Qualities"
+msgstr "Cari Kualitas"
+
+#: ../lib/movie/taxonomy-post-type.php:286
+msgid "Popular Qualities"
+msgstr "Kualitas Populer"
+
+#: ../lib/movie/taxonomy-post-type.php:287
+msgid "All Qualities"
+msgstr "Semua Kualitas"
+
+#: ../lib/movie/taxonomy-post-type.php:290
+msgid "Edit Quality"
+msgstr "Ubah Kualitas"
+
+#: ../lib/movie/taxonomy-post-type.php:291
+msgid "Update Quality"
+msgstr "Perbaharui Kualitas"
+
+#: ../lib/movie/taxonomy-post-type.php:292
+msgid "Add New Quality"
+msgstr "Tambah Kualitas Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:293
+msgid "New Quality Name"
+msgstr "Nama Kualitas Baru"
+
+#: ../lib/movie/taxonomy-post-type.php:294
+msgid "Separate qualities with commas"
+msgstr "Pisahkan kualitas dengan koma"
+
+#: ../lib/movie/taxonomy-post-type.php:295
+msgid "Add or remove qualities"
+msgstr "Tambah atau hapus kualitas"
+
+#: ../lib/movie/taxonomy-post-type.php:296
+msgid "Choose from the most used qualities"
+msgstr "Pilih kulitas dari yang paling banyak digunakan"
+
+#: ../lib/movie/taxonomy-post-type.php:297
+msgid "No qualities found."
+msgstr "Tidak ditemukan kualitas."
+
+#: ../lib/movie/taxonomy-post-type.php:298
+msgid "Qualities"
+msgstr "Kualitas"
+
+#: ../lib/movie/taxonomy-post-type.php:318
+msgid "Index"
+msgstr "Indeks"
+
+#: ../lib/movie/taxonomy-post-type.php:376
+msgid "Tv Show"
+msgstr "Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:377
+msgid "Parent Tv Show"
+msgstr "Tv Show Induk"
+
+#: ../lib/movie/taxonomy-post-type.php:378
+msgid "All Tv Shows"
+msgstr "Semua Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:379
+msgid "View Tv Show"
+msgstr "Tampilkan Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:380
+msgid "Add Tv Show"
+msgstr "Tambahkan Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:382
+msgid "Edit Tv Show"
+msgstr "Ubah Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:383
+msgid "Update Tv Show"
+msgstr "Perbaharui Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:384
+msgid "Search Tv Show"
+msgstr "Cari Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:385
+msgid "Not Tv Show found"
+msgstr "Tidak ditemukan Tv Show"
+
+#: ../lib/movie/taxonomy-post-type.php:433
+msgid "Episode"
+msgstr "Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:434
+msgid "Parent Episode"
+msgstr "Episode Induk"
+
+#: ../lib/movie/taxonomy-post-type.php:435
+msgid "All Episodes"
+msgstr "Semua Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:436
+msgid "View Episode"
+msgstr "Tampilkan Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:437
+msgid "Add Episode"
+msgstr "Tambahkan Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:439
+msgid "Edit Episode"
+msgstr "Ubah Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:440
+msgid "Update Episode"
+msgstr "Perbaharui Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:441
+msgid "Search Episode"
+msgstr "Cari Episode"
+
+#: ../lib/movie/taxonomy-post-type.php:442
+msgid "Not Episode found"
+msgstr "Tidak ditemukan Episode"
+
+#: ../lib/update/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Changelog tidak tersedia."
+
+#: ../lib/update/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr "Cek untuk pembaharuan"
+
+#: ../lib/update/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr "Plugin sudah terbaru."
+
+#: ../lib/update/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr "Versi terbaru plugin ini sudah tersedia."
+
+#: ../lib/update/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Cek status pembaharuan tidak diketahui \"%s\""
+
+#: ../lib/z_license.idmuvi-core.php:64
+msgid "License Key Not Found"
+msgstr "Lisensi Key Tidak Ditemukan"
+
+#: ../lib/z_license.idmuvi-core.php:80 ../lib/z_setting.idmuvi-core.php:213
+msgid "Note"
+msgstr "Catatan"
+
+#: ../lib/z_license.idmuvi-core.php:81
+msgid ""
+"Please insert your own license key <a href=\"plugins.php?page=muvipro-license"
+"\">here</a>."
+msgstr ""
+"Silahkan masukkan kunci lisensi Anda sendiri <a href=\"plugins.php?"
+"page=muvipro-license\">disini</a>."
+
+#: ../lib/z_setting.idmuvi-core.php:64
+msgid "Ads"
+msgstr "Iklan"
+
+#: ../lib/z_setting.idmuvi-core.php:68
+msgid "TMDB Settings"
+msgstr "Pengaturan TMDB"
+
+#: ../lib/z_setting.idmuvi-core.php:72
+msgid "Ajax & content"
+msgstr "Ajax & konten"
+
+#: ../lib/z_setting.idmuvi-core.php:76
+msgid "Other"
+msgstr "Lainnya"
+
+#: ../lib/z_setting.idmuvi-core.php:92
+msgid "Top Banner"
+msgstr "Banner Atas"
+
+#: ../lib/z_setting.idmuvi-core.php:93
+msgid "Display ads on very top. You can add adsense or manual banner."
+msgstr ""
+"Tampilkan iklan di paling atas. Anda dapat menambahkan adsense atau banner "
+"manual."
+
+#: ../lib/z_setting.idmuvi-core.php:98
+msgid "Top Banner After Menu"
+msgstr "Banner Atas Setelah Menu"
+
+#: ../lib/z_setting.idmuvi-core.php:99
+msgid "Display ads after menu. You can add adsense or manual banner."
+msgstr ""
+"Menampilkan iklan setelah menu. Anda dapat menambahkan adsense atau banner "
+"manual."
+
+#: ../lib/z_setting.idmuvi-core.php:104
+msgid "Top Banner Archive"
+msgstr "Banner Atas Arsip"
+
+#: ../lib/z_setting.idmuvi-core.php:105
+msgid ""
+"Display ads before post list in archive and index page. You can add adsense "
+"or manual banner."
+msgstr ""
+"Tampilkan iklan sebelum daftar post di arsip dan halaman index. Anda dapat "
+"menambahkan adsense atau banner manual."
+
+#: ../lib/z_setting.idmuvi-core.php:110
+msgid "Before Single Content"
+msgstr "Sebelum Konten Single"
+
+#: ../lib/z_setting.idmuvi-core.php:111
+msgid ""
+"Display ads before single content. You can add adsense or manual banner."
+msgstr ""
+"Menampilkan iklan sebelum konten single. Anda dapat menambahkan adsense atau "
+"banner manual."
+
+#: ../lib/z_setting.idmuvi-core.php:117
+msgid "Position"
+msgstr "Posisi"
+
+#: ../lib/z_setting.idmuvi-core.php:129
+msgid "After Single Content"
+msgstr "Setelah Konten Single"
+
+#: ../lib/z_setting.idmuvi-core.php:130
+msgid "Display ads after single content. You can add adsense or manual banner."
+msgstr ""
+"Menampilkan iklan setelah konten single. Anda dapat menambahkan adsense atau "
+"banner manual."
+
+#: ../lib/z_setting.idmuvi-core.php:136 ../lib/z_setting.idmuvi-core.php:154
+msgid "Alignment"
+msgstr "Alinea"
+
+#: ../lib/z_setting.idmuvi-core.php:147
+msgid "Inside Single Content"
+msgstr "Dalam Konten Single"
+
+#: ../lib/z_setting.idmuvi-core.php:148
+msgid ""
+"Display ads inside paragraph single content. You can add adsense or manual "
+"banner. Ads will not display if you have less than three paragraph in your "
+"post."
+msgstr ""
+"Menampilkan banner pada paragraph dalam konten single anda. Anda dapat "
+"menambahkan adsense atau banner manual. Iklan tidak akan ditampilkan jika "
+"anda mempunya paragraph kurang dari tiga pada posting anda."
+
+#: ../lib/z_setting.idmuvi-core.php:165
+msgid "Floating Banner Left"
+msgstr "Banner Melayang Kiri"
+
+#: ../lib/z_setting.idmuvi-core.php:166
+msgid ""
+"Display floating banner in left side. You can add adsense or manual banner. "
+"Display only on desktop."
+msgstr ""
+"Menampilkan banner melayang pada sisi kiri. Menampilkan banner pada footer. "
+"Anda dapat menambahkan adsense atau banner manual. Ditampilkan hanya pada "
+"desktop."
+
+#: ../lib/z_setting.idmuvi-core.php:171
+msgid "Floating Banner Right"
+msgstr "Banner Melayang Kanan"
+
+#: ../lib/z_setting.idmuvi-core.php:172
+msgid ""
+"Display floating banner in right side. You can add adsense or manual banner. "
+"Display only on desktop."
+msgstr ""
+"Menampilkan banner melayang pada sisi kanan. Menampilkan banner pada footer. "
+"Anda dapat menambahkan adsense atau banner manual. Ditampilkan hanya pada "
+"desktop."
+
+#: ../lib/z_setting.idmuvi-core.php:177
+msgid "Floating Banner Footer"
+msgstr "Banner Melayang Footer"
+
+#: ../lib/z_setting.idmuvi-core.php:178
+msgid ""
+"Display floating banner in footer. You can add adsense or manual banner. "
+"Display only on desktop."
+msgstr ""
+"Menampilkan banner melayang pada footer. Menampilkan banner pada footer. "
+"Anda dapat menambahkan adsense atau banner manual. Ditampilkan hanya pada "
+"desktop."
+
+#: ../lib/z_setting.idmuvi-core.php:183
+msgid "Footer Banner"
+msgstr "Footer Banner"
+
+#: ../lib/z_setting.idmuvi-core.php:184
+msgid "Display banner in footer. You can add adsense or manual banner."
+msgstr ""
+"Menampilkan banner pada footer. Anda dapat menambahkan adsense atau banner "
+"manual."
+
+#: ../lib/z_setting.idmuvi-core.php:189
+msgid "Before player Banner"
+msgstr "Banner sebelum player"
+
+#: ../lib/z_setting.idmuvi-core.php:190
+msgid ""
+"Display banner before player. You can add adsense or manual banner. Require "
+"player is active."
+msgstr ""
+"Menampilkan banner sebelum player. Anda dapat menambahkan adsense atau "
+"banner manual."
+
+#: ../lib/z_setting.idmuvi-core.php:195
+msgid "After player banner"
+msgstr "Banner setelah player"
+
+#: ../lib/z_setting.idmuvi-core.php:196
+msgid ""
+"Display banner after player. You can add adsense or manual banner. Require "
+"player is active."
+msgstr ""
+"Menampilkan banner setelah player. Anda dapat menambahkan adsense atau "
+"banner manual."
+
+#: ../lib/z_setting.idmuvi-core.php:201
+msgid "Popup banner"
+msgstr "Banner Popup"
+
+#: ../lib/z_setting.idmuvi-core.php:202
+msgid ""
+"Display popup banner in all page. You can add adsense or manual banner. Max "
+"width is 325px, and all image will resize to fullwidth (325px), so please "
+"using banner with width 325px. This banner will delay 3 seconds before load. "
+"Require theme muvipro."
+msgstr ""
+"Tampilkan banner popup di semua halaman. Anda bisa menambahkan banner "
+"adsense atau manual. Lebar maksimal 325px, dan semua gambar akan diubah "
+"ukurannya menjadi fullwidth (325px), jadi mohon gunakan banner dengan lebar "
+"325px. Banner ini akan tertunda 3 detik sebelum dimuat. Membutuhkan tema "
+"muvipro."
+
+#: ../lib/z_setting.idmuvi-core.php:207
+msgid "Banner In Player (336x200)"
+msgstr "Banner Pada Player (336x200)"
+
+#: ../lib/z_setting.idmuvi-core.php:208
+msgid "Display banner in player. You can add adsense or manual banner."
+msgstr ""
+"Menampilkan banner pada player. Anda dapat menambahkan adsense atau banner "
+"manual."
+
+#: ../lib/z_setting.idmuvi-core.php:214
+msgid ""
+"Some ad place maybe conflict with Term of Use ad provider like adsense. "
+"Please read TOS first before you insert the ads. Adsense TOS: https://www."
+"google.com/adsense/policies. All field above support shortcode too.<br /> "
+"For anti adblock, will give overlay notification, effect will cause a drop "
+"visitors in your website."
+msgstr ""
+"Beberapa penempatan iklan mungkin konflik dengan Kebijakan Pengguna penyedia "
+"iklan seperti adsense. Silahkan anda baca TOS sebelum anda memasukkan iklan. "
+"Adsense TOS: https://www.google.com/adsense/policies. Semua field diatas "
+"mendukung shortcode juga.<br /> Untuk anti adblock, akan memberi "
+"pemeberitahuan melayang, akan berakibat jumlah pengunjung menurun pada "
+"website anda."
+
+#: ../lib/z_setting.idmuvi-core.php:222
+msgid "Enable TMDB API"
+msgstr "Aktifkan TMDB API"
+
+#: ../lib/z_setting.idmuvi-core.php:223
+msgid ""
+"Check this if you want enable tmdb data scrapping in movie metaboxes. Some "
+"metaboxes need this options."
+msgstr ""
+"Centang ini jika anda ingin mengaktifkan scraping data tmdb di metaboxes "
+"film. Beberapa kotak meta membutuhkan pilihan ini."
+
+#: ../lib/z_setting.idmuvi-core.php:229
+msgid "TMDB API Key"
+msgstr "API Key TMDB"
+
+#: ../lib/z_setting.idmuvi-core.php:230
+msgid ""
+"Add API Key from themoviedb.org. Please config your api key in https://www."
+"themoviedb.org/account/"
+msgstr ""
+"Tambahkan API Key dari themoviedb.org. Silahkan atur api key anda di https://"
+"www.themoviedb.org/account/"
+
+#: ../lib/z_setting.idmuvi-core.php:236
+msgid "TMDB Languange"
+msgstr "Bahasa TMDB"
+
+#: ../lib/z_setting.idmuvi-core.php:275
+msgid "Enable Ajax Navigation"
+msgstr "Aktifkan Ajax Navigasi"
+
+#: ../lib/z_setting.idmuvi-core.php:276
+msgid ""
+"Check this if you want enable ajax navigation. If you using infinite scroll "
+"from jetpack, please disable it, to enable this feature."
+msgstr ""
+"Cek ini jika anda ingin mengkatifkan ajax navigasi. Jika Anda menggunakan "
+"infinite scroll dari jetpack, silahkan nonaktifkan, untuk mengaktifkan fitur "
+"ini."
+
+#: ../lib/z_setting.idmuvi-core.php:282
+msgid "Type Navigation"
+msgstr "Tipe Navigasi"
+
+#: ../lib/z_setting.idmuvi-core.php:293
+msgid "Content Order By"
+msgstr "Urutkan Konten Berdasarkan"
+
+#: ../lib/z_setting.idmuvi-core.php:294
+msgid ""
+"Select your order by in index and archive page. Note: if you select by year, "
+"you must edit all movie and insert year in Release Year in custom field. And "
+"for rating you must insert TMDB Rating in custom field."
+msgstr ""
+"Pilih urutan post anda di halaman indeks dan halaman arsip. Catatan: Jika "
+"anda memilih berdasarkan tahun, anda harus mengedit semua film dan masukkan "
+"tahun di Tahun Rilis di custom field. Dan untuk rating, anda harus "
+"memasukkan Rating TMDB di custom field."
+
+#: ../lib/z_setting.idmuvi-core.php:307
+msgid "Enable Ajax Search"
+msgstr "Aktifkan Pencarian Ajax"
+
+#: ../lib/z_setting.idmuvi-core.php:308
+msgid "Check this if you want enable ajax in search form."
+msgstr "Centang ini jika anda ingin mengaktifkan ajax pada form pencarian."
+
+#: ../lib/z_setting.idmuvi-core.php:317
+msgid "Facebook Pixel ID"
+msgstr "Facebook Pixel ID"
+
+#: ../lib/z_setting.idmuvi-core.php:318
+msgid ""
+"If you want adding Facebook Conversion Pixel code to WordPress sites, enter "
+"your facebook pixel ID here or you can add complate code via Head Script."
+msgstr ""
+"If anda ingin menambahkan kode konversi Facebook Pixel ke situs WordPress, "
+"masukkan Facebook pixel ID anda disini atau anda dapat menambahkan kode "
+"lengkap via opsi Head Script."
+
+#: ../lib/z_setting.idmuvi-core.php:323
+msgid "Google Analytics Code"
+msgstr "Kode Google Analytics"
+
+#: ../lib/z_setting.idmuvi-core.php:324
+msgid ""
+"Enter your Google Analytics code (Ex: UA-XXXXX-X) or you can add complate "
+"code via Footer Script."
+msgstr ""
+"Masukkan kode Google Analytics anda (Contoh: UA-XXXXX-X) atau anda dapat "
+"menambahkan kode lengkap lewat opsi Footer Script."
+
+#: ../lib/z_setting.idmuvi-core.php:329
+msgid "Head script"
+msgstr "Script Head"
+
+#: ../lib/z_setting.idmuvi-core.php:330
+msgid "These scripts will be printed in the <code>&lt;head&gt;</code> section."
+msgstr "Script ini akan ditampilkan pada bagian <code>&lt;head&gt;</code>."
+
+#: ../lib/z_setting.idmuvi-core.php:335
+msgid "Footer script"
+msgstr "Script Footer"
+
+#: ../lib/z_setting.idmuvi-core.php:336
+msgid "These scripts will be printed above the <code>&lt;/body&gt;</code> tag."
+msgstr "Script ini akan di tampilkan diatas tag <code>&lt;/body&gt;</code>."
+
+#: ../lib/z_setting.idmuvi-core.php:341
+msgid "Remove Emoji Script"
+msgstr "Hapus skrip emoji"
+
+#: ../lib/z_setting.idmuvi-core.php:342
+msgid ""
+"Check this if you want remove emoji script from <code>&lt;head&gt;</code> "
+"section. This can improve your web performance."
+msgstr ""
+"Centang ini jika anda menghapus skrip emoji dari bagian <code>&lt;head&gt;</"
+"code> section. Ini akan meningkatkan performa website anda."
+
+#: ../lib/z_setting.idmuvi-core.php:348
+msgid "Remove Script Version"
+msgstr "Nonaktifkan Versi Skrip"
+
+#: ../lib/z_setting.idmuvi-core.php:349
+msgid ""
+"Check this if you want remove script version from JS and CSS. This can "
+"improve your web performance."
+msgstr ""
+"Centang ini jika anda ingin menghapus versi skrip dari JS dan CSS. Ini dapat "
+"meningkatkan performa website anda."
+
+#: ../lib/z_setting.idmuvi-core.php:355
+msgid "Remove Jquery Migrate"
+msgstr "Hapus Jquery Migrate"
+
+#: ../lib/z_setting.idmuvi-core.php:356
+msgid ""
+"Check this if you want remove jquery migrate, if this conflict with some "
+"plugin please do not activated. This can improve your web performance."
+msgstr ""
+"Centang ini jika anda ingin menghapus jquery migrate, jika konflik dengan "
+"beberapa plugin jangan diaktifkan. Ini dapat meningkatkan performa website "
+"anda."
+
+#: ../lib/z_setting.idmuvi-core.php:362
+msgid "Remove WP Oembed"
+msgstr "Hapus WP Oembed"
+
+#: ../lib/z_setting.idmuvi-core.php:363
+msgid ""
+"Check this if you want remove wp oembed feature, if this conflict with some "
+"plugin please do not activated. This can improve your web performance."
+msgstr ""
+"Centang ini jika anda ingin menghapus fitur wp oembed, jika konflik dengan "
+"beberapa plugin jangan diaktifkan. Ini dapat meningkatkan performa website "
+"anda."
+
+#: ../lib/z_setting.idmuvi-core.php:369
+msgid "Remove WP Head Meta Tag"
+msgstr "Hapus WP Head Meta Tag"
+
+#: ../lib/z_setting.idmuvi-core.php:370
+msgid ""
+"Check this if you want remove wp head meta tag, if this conflict with some "
+"plugin please do not activated. This option can remove wp meta tag "
+"generator, rds, wlwmanifest, feed links, shortlink, comments feed so your "
+"head tag look simple and hope can fast your index."
+msgstr ""
+"Centang ini jika anda ingin menghapus wp head meta tag, jika konflik dengan "
+"beberapa plugin jangan diaktifkan. Opsi ini akan menghapus wp meta tag "
+"generator, rds, wlwmanifest, feed links, shortlink, comments feed sehingga "
+"tag head anda terlihat simple dan semoga data mempercepat index anda."
+
+#: ../lib/z_setting.idmuvi-core.php:376
+msgid "Remove data uninstaller"
+msgstr "Hapus data ketika uninstal"
+
+#: ../lib/z_setting.idmuvi-core.php:377
+msgid ""
+"Check this if you want remove data from database when plugin is uninstall."
+msgstr ""
+"Cek ini jika anda ingin menghapus dari dari database ketika plugin di "
+"uninstall."
+
+#: ../widgets/custom-form-widget.php:34
+msgid "Add simple custom subscribe form in your widget."
+msgstr "Menambahkan simple kustom subscribe form di widget anda."
+
+#: ../widgets/custom-form-widget.php:36
+msgid "Custom Subscribe Form (Idmuvi)"
+msgstr "Custom Subscribe Form (Idmuvi)"
+
+#: ../widgets/feedburner-widget.php:34
+msgid "Add simple feedburner form in your widget."
+msgstr "Menambahkan simple feedburner form di widget anda."
+
+#: ../widgets/feedburner-widget.php:36
+msgid "Feedburner Form (Idmuvi)"
+msgstr "Feedburner Form (Idmuvi)"
+
+#: ../widgets/mostview-posts-widget.php:34
+msgid "Most view movies with thumbnails widget. Require wp postview plugin."
+msgstr ""
+"Widget film paling banyak dilihat dengan thumbnail. Membutuhkan plugin wp-"
+"postview."
+
+#: ../widgets/mostview-posts-widget.php:36
+msgid "Most View Movies (Idmuvi)"
+msgstr "Film Paling Banyak Dilihat (Idmuvi)"
+
+#: ../widgets/recent-posts-widget.php:34
+msgid "Recent movies with thumbnails widget."
+msgstr "Widget film terbaru dengan thumbnail."
+
+#: ../widgets/recent-posts-widget.php:36
+msgid "Recent Movies (Idmuvi)"
+msgstr "Film Terbaru (Idmuvi)"
+
+#: ../widgets/search-widget.php:34
+msgid "Advance Movie Search widget."
+msgstr "Widget Pencarian Lanjutan Film."
+
+#: ../widgets/search-widget.php:36
+msgid "Movie Search (Idmuvi)"
+msgstr "Pencarian Film (Idmuvi)"
+
+#~ msgid "Player Integrated"
+#~ msgstr "Integrasi Player"
+
+#~ msgid "Select Provider"
+#~ msgstr "Pilih Penyedia"
+
+#~ msgid "Haxhits API Key"
+#~ msgstr "Haxhits Kunci API"
+
+#~ msgid ""
+#~ "Add API Key from haxhits.com. Please login to https://haxhits.com/?"
+#~ "p=dashboard to get API Key. For more information please contact provider "
+#~ "https://haxhits.com"
+#~ msgstr ""
+#~ "Tambahkan kunci API dari haxhits.com. Silahkan login ke https://haxhits."
+#~ "com/?p=dashboard untuk mendapatkan kunci API. Untuk informasi lebih "
+#~ "lanjut silahkan hubungi penyedia https://haxhits.com"
+
+#~ msgid "Related Movies"
+#~ msgstr "Film Terkait"
+
+#~ msgid "Rating: "
+#~ msgstr "Rating: "
+
+#~ msgid " min"
+#~ msgstr " menit"
+
+#~ msgid "TV Show"
+#~ msgstr "TV Show"
+
+#~ msgid "Trailer for "
+#~ msgstr "Trailer untuk "
+
+#~ msgid "Trailer"
+#~ msgstr "Trailer"
+
+#~ msgid "Watch"
+#~ msgstr "Tonton"
+
+#~ msgid "Share this"
+#~ msgstr "Sebarkan ini"
+
+#~ msgid "Sharer"
+#~ msgstr "Sebarkan"
+
+#~ msgid "Tweet this"
+#~ msgstr "Twit ini"
+
+#~ msgid "Tweet"
+#~ msgstr "Twit"
+
+#~ msgid "Whatsapp"
+#~ msgstr "Whatsapp"
+
+#~ msgid "WhatsApp"
+#~ msgstr "WhatsApp"
+
+#~ msgid "Related Post"
+#~ msgstr "Pos Terkait"
+
+#~ msgid "Social"
+#~ msgstr "Sosial"
+
+#~ msgid "Enable related post"
+#~ msgstr "Aktifkan pos terkait"
+
+#~ msgid "Check this if you want enable related post in single post."
+#~ msgstr "Cek disini jika anda ingin mengaktifkan pos terkait di single pos."
+
+#~ msgid "Number post"
+#~ msgstr "Jumlah pos"
+
+#~ msgid "How much number post want to display on related post."
+#~ msgstr ""
+#~ "Berapa banyak jumlah posting yang ingin ditampilkan pada posting terkait."
+
+#~ msgid "Taxonomy"
+#~ msgstr "Taksonomi"
+
+#~ msgid "Choice related movies by tags or category (genre)"
+#~ msgstr "Pilih film terkati berdasarkan tag atau kategori (genre)"
+
+#~ msgid ""
+#~ "This recent post support YARPP(Yet Another Related Posts Plugin) too. If "
+#~ "you want change this related post with YARPP, just install YARPP and "
+#~ "disable this Related Posts. Display using "
+#~ "<strong>add_filter( 'the_content', 'idmuvi_core_add_related_the_content', "
+#~ "40 );</strong>"
+#~ msgstr ""
+#~ "Post terkait ini mendukung YARPP(Yet Another Related Posts Plugin) juga. "
+#~ "jika anda ingin mengganti post terkait ini dengan YARPP, cukup pasang "
+#~ "YARPP dan nonaktifkan Post Terkait ini. Ditampilkan menggunakan "
+#~ "<strong>add_filter( 'the_content', 'idmuvi_core_add_related_the_content', "
+#~ "40 );</strong>"
+
+#~ msgid "Enable social share"
+#~ msgstr "Aktifkan sebarkan sosial"
+
+#~ msgid "Check this if you want enable social share in single post."
+#~ msgstr ""
+#~ "Centang ini jika anda ingin mengaktifkan sebarkan sosial di pos single."
+
+#~ msgid ""
+#~ "This social support jetpack too. If you want change this share post with "
+#~ "jetpack, just install jetpack and activated module Sharedaddy For "
+#~ "Jetpack, sharedaddy will automatically replace default social share. "
+#~ "Display using <strong>add_filter( 'the_content', "
+#~ "'idmuvi_core_add_share_the_content', 30 );</strong>. If you activated "
+#~ "opengraph, opengraph from jetpack will disappear. So if you want using "
+#~ "jetpack open graph, you can disable this opengraph. If you using another "
+#~ "opengraph plugin, please disable opengraph. Do not using opengraph plugin "
+#~ "more then one. Opengraph display using <strong>add_action( 'wp_head', "
+#~ "'idmuvi_opengraph_meta_tags', 1 );</strong>"
+#~ msgstr ""
+#~ "Social ini mendukung jetpack juga. Jika anda ingin mengubah share social "
+#~ "ini dengan Jetpack, cukup instal jetpack dan aktifkan modul Sharedaddy "
+#~ "For Jetpack, Sharedaddy otomatis akan menggantikan standar share sosial. "
+#~ "Ditampilkan menggunakan <strong>add_filter('the_content', "
+#~ "'idmuvi_core_add_share_the_content', 30);</strong>. Jika anda "
+#~ "mengaktifkan OpenGraph, OpenGraph dari jetpack akan hilang. Jadi jika "
+#~ "anda ingin menggunakan opengraph dari jetpack, anda dapat menonaktifkan "
+#~ "OpenGraph ini. Jika anda menggunakan plugin OpenGraph lain, nonaktifkan "
+#~ "OpenGraph ini. Jangan menggunakan OpenGraph Plugin lebih dari satu. "
+#~ "OpenGraph ditampilkan menggunakan <strong>add_action( 'wp_head', "
+#~ "'idmuvi_opengraph_meta_tags', 1 );</strong>"
+
+#~ msgid "Please disable your adblock for read our content."
+#~ msgstr "Silahkan nonaktifkan adblock anda untuk membaca konten kami."
+
+#~ msgid "Refresh"
+#~ msgstr "Segarkan"
+
+#~ msgid "Muvipro License Options"
+#~ msgstr "Pengaturan Lisensi Muvipro"
+
+#~ msgid "License Key"
+#~ msgstr "Kunci Lisensi"
+
+#~ msgid "Enter your license key here"
+#~ msgstr "Masukkan kunci lisensi anda disini"
+
+#~ msgid "Activate License"
+#~ msgstr "Aktifkan Lisensi"
+
+#~ msgid "License Active"
+#~ msgstr "Lisensi Aktif"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Hapus Lisensi"
+
+#~ msgid ""
+#~ "Congratulations, your license is active.<br /> You can disable license "
+#~ "for this domain by entering the license key to the form and clicking "
+#~ "<strong>Deactivate License</strong>"
+#~ msgstr ""
+#~ "Selamat, license anda aktif.<br /> Anda dapat menonaktifkan lisensi untuk "
+#~ "domain ini dengan memasukkan kunci lisensi pada form dan klik "
+#~ "<strong>Hapus Lisensi</strong>"
+
+#~ msgid "Success."
+#~ msgstr "Sukses."
+
+#~ msgid "close"
+#~ msgstr "tutup"
+
+#~ msgid "Title:"
+#~ msgstr "Judul:"
+
+#~ msgid "Display as dropdown"
+#~ msgstr "Tampilkan sebagai dropdown"
+
+#~ msgid "Show post counts"
+#~ msgstr "Tampilkan jumlah post"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "Tampilkan hierarki"
+
+#~ msgid "Selected categories"
+#~ msgstr "Seleksi kategori"
+
+#~ msgid ""
+#~ "Category Names, separated by commas. Eg: News, Home Design, Technology."
+#~ msgstr ""
+#~ "Nama Kategori, pisahkan dengan koma. Misal: Berita, Desain Rumah, "
+#~ "Teknologi."
+
+#~ msgid "Selected tags"
+#~ msgstr "Seleksi kategori"
+
+#~ msgid "Tag Names, separated by commas. Eg: Tag 1, Tag 2, etc."
+#~ msgstr "Nama Tag, pisahkan dengan koma. Misal: Tag 1, Tag 2, dan lain lain."
+
+#~ msgid "Maximum length of title"
+#~ msgstr "Maksimum panjang judul"
+
+#~ msgid "Do not list the current post?"
+#~ msgstr "Jangan masukkan pos saat ini?"
+
+#~ msgid "Show blog meta?"
+#~ msgstr "Tampilkan meta blog?"
+
+#~ msgid "Show Thumbnail?"
+#~ msgstr "Tampilkan Thumbnail?"
+
+#~ msgid "Search for:"
+#~ msgstr "Pencarian untuk:"
+
+#~ msgid "Search blogs &hellip;"
+#~ msgstr "Cari blog &hellip;"
+
+#~ msgid "Searching for:"
+#~ msgstr "Pencarian untuk:"
+
+#~ msgid "No title"
+#~ msgstr "Tidak ada judul"
+
+#~ msgid "Episode Settings:"
+#~ msgstr "Pengaturan Episode:"
+
+#~ msgid "Player Settings:"
+#~ msgstr "Pengaturan Player:"
+
+#~ msgid "Download Settings:"
+#~ msgstr "Pengaturan Download:"
+
+#~ msgid "Enter TMDB ID:"
+#~ msgstr "Masukkan ID TMDB:"
+
+#~ msgid "Serie Name (TMDB):"
+#~ msgstr "Nama Seri (TMDB):"
+
+#~ msgid "Episode Name (TMDB):"
+#~ msgstr "Nama Episode (TMDB):"
+
+#~ msgid "Air Date (TMDB):"
+#~ msgstr "Tanggal Mengudara (TMDB):"
+
+#~ msgid "Episode Number (TMDB):"
+#~ msgstr "Jumlah Episode (TMDB):"
+
+#~ msgid "Season Number (TMDB):"
+#~ msgstr "Nomor Sesi (TMDB):"
+
+#~ msgid "TMDB Rating:"
+#~ msgstr "Rating TMDB:"
+
+#~ msgid "Youtube ID For Trailer (TMDB):"
+#~ msgstr "Youtube ID Untuk Trailer (TMDB):"
+
+#~ msgid "Poster Url (TMDB):"
+#~ msgstr "Url Poster (TMDB):"
+
+#~ msgid "tmdbID:"
+#~ msgstr "tmdbID:"
+
+#~ msgid "Player from gdriveplayer.us Embed"
+#~ msgstr "Player dari gdriveplayer.us Embed"
+
+#~ msgid "Player from gdriveplayer.us Title"
+#~ msgstr "Player dari gdriveplayer.us Title"
+
+#~ msgid "Player from haxhits.com"
+#~ msgstr "Player dari haxhits.com"
+
+#~ msgid "Enter Title:"
+#~ msgstr "Masukkan Title:"
+
+#~ msgid ""
+#~ "Please insert title movie, this will automatic get movie link, for list "
+#~ "movie please contact gdriveplayer.us."
+#~ msgstr ""
+#~ "Silahkan masukkan title film, ini akan otomatis mendapatkan link film, "
+#~ "untuk daftar film silahkan kontak gdriveplayer.us."
+
+#~ msgid "Enter Google Drive URL:"
+#~ msgstr "Masukkan URL Google Drive:"
+
+#~ msgid ""
+#~ "Please insert your google drive link. Eg: https://drive.google.com/file/"
+#~ "d/0B1xQLLJtrzJoaWUxUHdqY01mRGM/view."
+#~ msgstr ""
+#~ "Silahkan masukkan link google drive anda. Misal: https://drive.google.com/"
+#~ "file/d/0B1xQLLJtrzJoaWUxUHdqY01mRGM/view."
+
+#~ msgid "Enter SubTitle URL:"
+#~ msgstr "Masukkan URL SubTitle:"
+
+#~ msgid "Enter Image URL:"
+#~ msgstr "Masukkan URL gambar:"
+
+#~ msgid ""
+#~ "This is automatic get movie iframe from third party. Please contact "
+#~ "provider for support."
+#~ msgstr ""
+#~ "Ini akan otomatis mendapatkan iframe film dari pihak ketiga. Silahkan "
+#~ "kontak penyedia untuk dukungan."
+
+#~ msgid "Player Notification"
+#~ msgstr "Pemberitahuan Player"
+
+#~ msgid "Server 1"
+#~ msgstr "Server 1"
+
+#~ msgid "Server 2"
+#~ msgstr "Server 2"
+
+#~ msgid "Server 3"
+#~ msgstr "Server 3"
+
+#~ msgid "Server 4"
+#~ msgstr "Server 4"
+
+#~ msgid "Server 5"
+#~ msgstr "Server 5"
+
+#~ msgid "Server 6"
+#~ msgstr "Server 6"
+
+#~ msgid "Server 7"
+#~ msgstr "Server 7"
+
+#~ msgid "Server 8"
+#~ msgstr "Server 8"
+
+#~ msgid "Server 9"
+#~ msgstr "Server 9"
+
+#~ msgid "Server 10"
+#~ msgstr "Server 10"
+
+#~ msgid "Title tab 1:"
+#~ msgstr "Judul tab 1:"
+
+#~ msgid "Embed Code 1:"
+#~ msgstr "Kode Embed 1:"
+
+#~ msgid "Title tab 2:"
+#~ msgstr "Judul tab 2:"
+
+#~ msgid "Embed Code 2:"
+#~ msgstr "Kode Embed 2:"
+
+#~ msgid "Title tab 3:"
+#~ msgstr "Judul tab 3:"
+
+#~ msgid "Embed Code 3:"
+#~ msgstr "Kode Embed 3:"
+
+#~ msgid "Title tab 4:"
+#~ msgstr "Judul tab 4:"
+
+#~ msgid "Embed Code 4:"
+#~ msgstr "Kode Embed 4:"
+
+#~ msgid "Title tab 5:"
+#~ msgstr "Judul tab 5:"
+
+#~ msgid "Embed Code 5:"
+#~ msgstr "Kode Embed 5:"
+
+#~ msgid "Title tab 6:"
+#~ msgstr "Judul tab 6:"
+
+#~ msgid "Embed Code 6:"
+#~ msgstr "Kode Embed 6:"
+
+#~ msgid "Title tab 7:"
+#~ msgstr "Judul tab 7:"
+
+#~ msgid "Embed Code 7:"
+#~ msgstr "Kode Embed 7:"
+
+#~ msgid "Title tab 8:"
+#~ msgstr "Judul tab 8:"
+
+#~ msgid "Embed Code 8:"
+#~ msgstr "Kode Embed 8:"
+
+#~ msgid "Title tab 9:"
+#~ msgstr "Judul tab 9:"
+
+#~ msgid "Embed Code 9:"
+#~ msgstr "Kode Embed 9:"
+
+#~ msgid "Title tab 10:"
+#~ msgstr "Judul tab 10:"
+
+#~ msgid "Embed Code 10:"
+#~ msgstr "Kode Embed 10:"
+
+#~ msgid "Download 1"
+#~ msgstr "Download 1"
+
+#~ msgid "Download 2"
+#~ msgstr "Download 2"
+
+#~ msgid "Download 3"
+#~ msgstr "Download 3"
+
+#~ msgid "Download 4"
+#~ msgstr "Download 4"
+
+#~ msgid "Download 5"
+#~ msgstr "Download 5"
+
+#~ msgid "Download 6"
+#~ msgstr "Download 6"
+
+#~ msgid "Download 7"
+#~ msgstr "Download 7"
+
+#~ msgid "Download 8"
+#~ msgstr "Download 8"
+
+#~ msgid "Download 9"
+#~ msgstr "Download 9"
+
+#~ msgid "Download 10"
+#~ msgstr "Download 10"
+
+#~ msgid "Title Download 1:"
+#~ msgstr "Judul Download 1:"
+
+#~ msgid "URL Download 1:"
+#~ msgstr "URL Download 1:"
+
+#~ msgid "Title Download 2:"
+#~ msgstr "Judul Download 2:"
+
+#~ msgid "URL Download 2:"
+#~ msgstr "URL Download 2:"
+
+#~ msgid "Title Download 3:"
+#~ msgstr "Judul Download 3:"
+
+#~ msgid "URL Download 3:"
+#~ msgstr "URL Download 3:"
+
+#~ msgid "Title Download 4:"
+#~ msgstr "Judul Download 4:"
+
+#~ msgid "URL Download 4:"
+#~ msgstr "URL Download 4:"
+
+#~ msgid "Title Download 5:"
+#~ msgstr "Judul Download 5:"
+
+#~ msgid "URL Download 5:"
+#~ msgstr "URL Download 5:"
+
+#~ msgid "Title Download 6:"
+#~ msgstr "Judul Download 6:"
+
+#~ msgid "URL Download 6:"
+#~ msgstr "URL Download 6:"
+
+#~ msgid "Title Download 7:"
+#~ msgstr "Judul Download 7:"
+
+#~ msgid "URL Download 7:"
+#~ msgstr "URL Download 7:"
+
+#~ msgid "Title Download 8:"
+#~ msgstr "Judul Download 8:"
+
+#~ msgid "URL Download 8:"
+#~ msgstr "URL Download 8:"
+
+#~ msgid "Title Download 9:"
+#~ msgstr "Judul Download 9:"
+
+#~ msgid "URL Download 9:"
+#~ msgstr "URL Download 9:"
+
+#~ msgid "Title Download 10:"
+#~ msgstr "Judul Download 10:"
+
+#~ msgid "URL Download 10:"
+#~ msgstr "URL Download 10:"
+
+#~ msgid "Something went wrong while downloading this file."
+#~ msgstr "Ada yang salah saat men-download file ini."
+
+#~ msgid "something went wrong. movie/xxx.php:665"
+#~ msgstr "ada yang salah. movie/xxx.php:665"
+
+#~ msgid "Movie Settings:"
+#~ msgstr "Pengaturan Film:"
+
+#~ msgid "Enter IMDB/TMDB ID:"
+#~ msgstr "Masukkan ID IMDB/TMDB:"
+
+#~ msgid "Title (TMDB):"
+#~ msgstr "Judul (TMDB):"
+
+#~ msgid "Language (TMDB):"
+#~ msgstr "Bahasa (TMDB):"
+
+#~ msgid "Tagline (TMDB):"
+#~ msgstr "Tagline (TMDB):"
+
+#~ msgid "MPAA Rating (TMDB):"
+#~ msgstr "Rating MPAA (TMDB):"
+
+#~ msgid "Relase Date (TMDB):"
+#~ msgstr "Tanggal Rilis (TMDB):"
+
+#~ msgid "Relase Year (TMDB):"
+#~ msgstr "Tahun Rilis (TMDB):"
+
+#~ msgid "Runtime in minutes (TMDB):"
+#~ msgstr "Waktu jalan dalam menit (TMDB):"
+
+#~ msgid "Budget (TMDB):"
+#~ msgstr "Anggaran (TMDB):"
+
+#~ msgid "Revenue (TMDB):"
+#~ msgstr "Pendapatan (TMDB):"
+
+#~ msgid "imdbID:"
+#~ msgstr "imdbID:"
+
+#~ msgid "TV Shows Settings:"
+#~ msgstr "Pengaturan TV Show:"
+
+#~ msgid "Original Name (TMDB):"
+#~ msgstr "Judul Aslinya (TMDB):"
+
+#~ msgid "Last Air Date (TMDB):"
+#~ msgstr "Tanggal Terakhir Mengudara (TMDB):"
+
+#~ msgid "Number Of Episode (TMDB):"
+#~ msgstr "Jumlah Episode (TMDB):"
+
+#~ msgid "Add +1"
+#~ msgstr "Tambah +1"
+
+#~ msgid "Breadcrumbs"
+#~ msgstr "Breadcrumb"
+
+#~ msgid "Enable breadcrumbs"
+#~ msgstr "Aktifkan breadcrumb"
+
+#~ msgid "Check this if you want enable breadcrumbs."
+#~ msgstr "Centang ini jika anda ingin mengaktifkan breadcrumb."
+
+#~ msgid "Homepage Text"
+#~ msgstr "Teks halaman beranda"
+
+#~ msgid "Blog Text"
+#~ msgstr "Teks blog"
+
+#~ msgid "Display only if you using blog page."
+#~ msgstr "Tampilkan hanya jika anda menggunakan halaman blog."
+
+#~ msgid "404 Error Text"
+#~ msgstr "Teks Kesalahan 404"
+
+#~ msgid ""
+#~ "This breadcrumbs support breadcrumb navxt or yoast breadcrumb too. If you "
+#~ "want change this breadcrumb with that plugin, just install plugin "
+#~ "breadcrumb navxt or wordpress SEO by seo. Display using "
+#~ "<strong>do_action( 'idmuvi_core_view_breadcrumbs' );</strong>"
+#~ msgstr ""
+#~ "Breadcrumbs ini mendukung breadcrumb NavXT atau breadcrumb Yoast juga. "
+#~ "Jika anda ingin mengubah breadcrumb ini dengan plugin itu, cukup instal "
+#~ "plugin NavXT breadcrumb atau wordpress SEO. Ditampilkan menggunakan "
+#~ "<strong>do_action('idmuvi_core_view_breadcrumbs'); </strong>"
+
+#~ msgid "Enable Adblock"
+#~ msgstr "Aktifkan Adblock"
+
+#~ msgid ""
+#~ "Check this if you want enable anti adblock. Anti adblock will display "
+#~ "overlay notification when your visitor enable adblock for your website."
+#~ msgstr ""
+#~ "Cek ini jika anda ingin mengaktifkan anti adblock. Anti adblock akan "
+#~ "menampilkan pemberitahuan ketika pengunjung anda mengaktifkan adblock "
+#~ "pada situs anda."
+
+#~ msgid "Adblock Message"
+#~ msgstr "Pesan Adblock"
+
+#~ msgid "Insert message in your anti adblock."
+#~ msgstr "Masukkan pesan pada anti adblock anda."
+
+#~ msgid "Enable opengraph"
+#~ msgstr "Aktifkan opengraph"
+
+#~ msgid ""
+#~ "Check this if you want enable Open Graph metadata to your posts and pages "
+#~ "so that they look great when shared on sites like Twitter, Facebook and "
+#~ "Google+."
+#~ msgstr ""
+#~ "Centang ini jika anda ingin mengkatifkan Open Graph metadata untuk pos "
+#~ "dan halaman anda, dan membuatnya terlihat bagus ketika disebarkan pada "
+#~ "situs seperti Twitter, Facebook dan Google+."
+
+#~ msgid "Facebook App ID"
+#~ msgstr "Facebook App ID"
+
+#~ msgid ""
+#~ "Enter your facebook App ID here, some function require app ID, better if "
+#~ "you fill your own, or you can using default app ID from plugin."
+#~ msgstr ""
+#~ "Masukkan facebook App ID anda disini, beberapa fungsi mewajibkan app ID, "
+#~ "lebih baik jika anda menggunakan app ID sendiri, atau anda dapat "
+#~ "menggunakan app ID dari plugin."
+
+#~ msgid "Username Twitter"
+#~ msgstr "Nama pengguna Twitter"
+
+#~ msgid "Enter your Username Twitter Without @."
+#~ msgstr "Masukkan nama pengguna Twitter tanpa @."
+
+#~ msgid "Check this if you want enable twitter:creator meta."
+#~ msgstr "Centang ini jika anda ingin mengaktifkan meta twitter:creator."
+
+#~ msgid "Enable Facebook Comment"
+#~ msgstr "Aktifkan Komentar Facebook"
+
+#~ msgid ""
+#~ "Check this Facebook Comment, if you check this default comment will "
+#~ "replace with Facebook Comment."
+#~ msgstr ""
+#~ "Centang ini, jika anda mencentang ini komentar default akan di replace "
+#~ "dengan Komentar Facebook."
+
+#~ msgid "Add simple aweber form in your widget."
+#~ msgstr "Tambahkan simple form aweber di widget anda."
+
+#~ msgid "Aweber Form (Idmuvi)"
+#~ msgstr "Aweber Form (Idmuvi)"
+
+#~ msgid "Aweber List ID *(Required)"
+#~ msgstr "Aweber List ID *(Wajib)"
+
+#~ msgid ""
+#~ "Input Unique List ID <a target=\"_blank\" href=\"https://help.aweber.com/"
+#~ "hc/en-us/articles/204028426-What-Is-The-Unique-List-ID-\">Click Here to "
+#~ "see where to find it.</a>"
+#~ msgstr ""
+#~ "Masukkan List ID unik <a target=\"_blank\" href=\"https://help.aweber.com/"
+#~ "hc/en-us/articles/204028426-What-Is-The-Unique-List-ID-\">Untuk melihat "
+#~ "bagaimana cara mencarinya.</a>"
+
+#~ msgid "Link to the Thank you page"
+#~ msgstr "Link ke halaman terima kasih"
+
+#~ msgid "Leave empty if you want to use Aweber's default thank you page."
+#~ msgstr ""
+#~ "Biarkan kosong jika anda ingin menggunakan halaman terima kasih bawaan "
+#~ "Aweber."
+
+#~ msgid "Redirect URL"
+#~ msgstr "URL Redirect"
+
+#~ msgid "Redirect Already Subscribed Users to Following URL."
+#~ msgstr "Mengarahkan Pengguna Yang Sudah Berlangganan pada URL."
+
+#~ msgid "Enable Full Name Field"
+#~ msgstr "Aktifkan Kotak Isian Nama"
+
+#~ msgid "Force Input 100%"
+#~ msgstr "Paksa Input 100%"
+
+#~ msgid "Placeholder For Name Field"
+#~ msgstr "Placeholder untuk kotak isian nama"
+
+#~ msgid "Placeholder For Email Address Field"
+#~ msgstr "Placeholder untuk kotak isian Alamat Email"
+
+#~ msgid "Submit Button Text"
+#~ msgstr "Teks tombol submit"
+
+#~ msgid "Intro Text:"
+#~ msgstr "Teks Intro:"
+
+#~ msgid "Spam Text:"
+#~ msgstr "Text Spam:"
+
+#~ msgid "Background Color"
+#~ msgstr "Warna Latar"
+
+#~ msgid "Text Color"
+#~ msgstr "Warna Text"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Warna teks tombol"
+
+#~ msgid "Button Background Color"
+#~ msgstr "Warna latar tombol"
+
+#~ msgid "Action URL *(Required)"
+#~ msgstr "Action URL *(Wajib)"
+
+#~ msgid ""
+#~ "For example, you get form code with &lt;form action=\"http://example.com/"
+#~ "subscribeform\" method=\"post\"&gt; just fill with http://example.com/"
+#~ "subscribeform"
+#~ msgstr ""
+#~ "Sebagai contoh, anda bias mendapatkan kode dengan &lt;form action="
+#~ "\"http://example.com/subscribeform\" method=\"post\"&gt; cukup isi dengan "
+#~ "http://example.com/subscribeform"
+
+#~ msgid "Select Method:"
+#~ msgstr "Pilih Metode:"
+
+#~ msgid "post"
+#~ msgstr "post"
+
+#~ msgid "get"
+#~ msgstr "get"
+
+#~ msgid "Enable Email Field"
+#~ msgstr "Aktifkan Email Field"
+
+#~ msgid "Hidden Input:"
+#~ msgstr "Hidden Input:"
+
+#~ msgid ""
+#~ "Fill with hidden field for example <br />&lt;input name=\"hidden_name1\" "
+#~ "type=\"hidden\" value=\"hidden_value1\" /&gt;\n"
+#~ "\t\t\t\t\t\t\t<br />&lt;input name=\"hidden_name2\" type=\"hidden\" value="
+#~ "\"hidden_value2\" /&gt;"
+#~ msgstr ""
+#~ "Isi dengan hidden field sebagai contoh <br />&lt;input name="
+#~ "\"hidden_name1\" type=\"hidden\" value=\"hidden_value1\" /&gt;\n"
+#~ "\t\t\t\t\t\t\t<br />&lt;input name=\"hidden_name2\" type=\"hidden\" value="
+#~ "\"hidden_value2\" /&gt;"
+
+#~ msgid "Other Input:"
+#~ msgstr "Input Lainnya:"
+
+#~ msgid ""
+#~ "Fill with other field if you need other input for your subscribe form. "
+#~ "For example <br />&lt;input name=\"city\" type=\"text\" placeholder="
+#~ "\"Enter your city\" value=\"\" /&gt;\n"
+#~ "\t\t\t\t\t\t\t<br />&lt;input name=\"age\" type=\"text\" placeholder="
+#~ "\"Enter your age\" value=\"\" /&gt;"
+#~ msgstr ""
+#~ "Isi dengan field lainnya jika anda membutuhkan input lainnya untuk form "
+#~ "berlangganan anda. Sebagai contoh <br />&lt;input name=\"city\" type="
+#~ "\"text\" placeholder=\"Enter your city\" value=\"\" /&gt;\n"
+#~ "\t\t\t\t\t\t\t<br />&lt;input name=\"age\" type=\"text\" placeholder="
+#~ "\"Enter your age\" value=\"\" /&gt;"
+
+#~ msgid "Feedburner ID *(Required)"
+#~ msgstr "Feedburner ID *(Wajib)"
+
+#~ msgid "Example: gianmr for http://feeds.feedburner.com/gianmr feed address."
+#~ msgstr ""
+#~ "Contoh: gianmr untuk alamat feed http://feeds.feedburner.com/gianmr."
+
+#~ msgid "Add simple getresponse form in your widget."
+#~ msgstr "Menambahkan simple getresponse form di widget anda."
+
+#~ msgid "Getresponse Form (Idmuvi)"
+#~ msgstr "Getresponse Form (Idmuvi)"
+
+#~ msgid "Getresponse Campaign Token *(Required)"
+#~ msgstr "Getresponse Campaign Token *(Wajib)"
+
+#~ msgid ""
+#~ "Getresponse Campaign Token <a target=\"_blank\" href=\"https://support."
+#~ "getresponse.com/faq/how-do-i-create-html-web-form-code-from-scratch"
+#~ "\">Click Here to see where to find it.</a>"
+#~ msgstr ""
+#~ "Getresponse Campaign Token <a target=\"_blank\" href=\"https://support."
+#~ "getresponse.com/faq/how-do-i-create-html-web-form-code-from-scratch"
+#~ "\">Klik disini untuk melihat bagaimana cara mendapatkannya.</a>"
+
+#~ msgid "Leave empty if you want to use Getresponse's default thank you page."
+#~ msgstr ""
+#~ "Biarkan kosong jika anda ingin menggunakan halaman terima kasih bawaan "
+#~ "Getresponse."
+
+#~ msgid "Add simple mailchimp form in your widget."
+#~ msgstr "Menambahkan simple mailchimp form di widget anda."
+
+#~ msgid "Mailchimp Form (Idmuvi)"
+#~ msgstr "Mailchimp Form (Idmuvi)"
+
+#~ msgid "Mailchimp Action URL *(Required)"
+#~ msgstr "Mailchimp Action URL *(Wajib)"
+
+#~ msgid ""
+#~ "Mailchimp Action URL <a target=\"_blank\" href=\"https://help.shopify.com/"
+#~ "themes/customization/communication/get-a-mailchimp-form-action-url"
+#~ "\">Click Here to see where to find it.</a>"
+#~ msgstr ""
+#~ "Mailchimp Action URL <a target=\"_blank\" href=\"https://help.shopify.com/"
+#~ "themes/customization/communication/get-a-mailchimp-form-action-url\">Klik "
+#~ "disini untuk melihat bagaimana cara mendapatkannya.</a>"
+
+#~ msgid "Popular range:"
+#~ msgstr "Kisaran populer:"
+
+#~ msgid "Alltime"
+#~ msgstr "Semua waktu"
+
+#~ msgid "1 Year"
+#~ msgstr "1 Tahun"
+
+#~ msgid "2 Mounts"
+#~ msgstr "2 Bulan"
+
+#~ msgid "1 Mount"
+#~ msgstr "1 Bulan"
+
+#~ msgid "7 Days"
+#~ msgstr "7 Hari"
+
+#~ msgid "Select popular by most view."
+#~ msgstr "Pilih popular berdasarkan dilihat."
+
+#~ msgid "Show movie meta?"
+#~ msgstr "Tampilkan meta film?"
+
+#~ msgid "Show view data?"
+#~ msgstr "Tampilkan data dilihat?"
+
+#~ msgid "Orderby"
+#~ msgstr "Urutan"
+
+#~ msgid "Date"
+#~ msgstr "Tanggal"
+
+#~ msgid "Random"
+#~ msgstr "Acak"
+
+#~ msgid "Modified"
+#~ msgstr "Modifikasi"
+
+#~ msgid "Enter Movie"
+#~ msgstr "Masukkan Film"
+
+#~ msgid "All Type"
+#~ msgstr "Semua Tipe"
+
+#~ msgid "By Index"
+#~ msgstr "Berdasarkan Indeks"
+
+#~ msgid "Order"
+#~ msgstr "Urutan"
+
+#~ msgid "Order By Title"
+#~ msgstr "Urutan Berdasarkan Judul"
+
+#~ msgid "Order By Date"
+#~ msgstr "Urutan Berdasarkan Tanggal"
+
+#~ msgid "Order By Rating"
+#~ msgstr "Urutan Berdasarkan Rating"
+
+#~ msgid "All Genres"
+#~ msgstr "Semua Genre"
+
+#~ msgid "Remove Auto Thumbnail Functions"
+#~ msgstr "Hapus Fungsi Auto Thumbnail"
+
+#~ msgid ""
+#~ "Check this if you want remove thumb.php from idmuvi-core. For solutions, "
+#~ "you must set featured image in every post."
+#~ msgstr ""
+#~ "Centang ini jika anda ingin menghapus thumb.php dari idmuvi-core. Untuk "
+#~ "solusi, anda harus melakukan set featured image di setiap pos."
+
+#~ msgid "Author"
+#~ msgstr "Penulis"
+
+#~ msgid "Archive"
+#~ msgstr "Arsip"
+
+#~ msgid ""
+#~ "Click on the categories with pressed CTRL key to select multiple "
+#~ "categories. If All Categories was selected then other selections will be "
+#~ "ignored."
+#~ msgstr ""
+#~ "Klik pada kategori dengan tombol CTRL ditekan untuk memilih beberapa "
+#~ "kategori. Jika semua Kategori terpilih maka pilihan lain akan diabaikan."
+
+#~ msgid ""
+#~ "Click on the tags with pressed CTRL key to select multiple tags. If All "
+#~ "Tags was selected then other selections will be ignored."
+#~ msgstr ""
+#~ "Klik pada tag dengan tombol CTRL ditekan untuk memilih beberapa tag. Jika "
+#~ "semua Tag terpilih maka pilihan lain akan diabaikan."
+
+#~ msgid ""
+#~ "Theme <a href=\"https://www.idtheme.com/muvipro/\">Muvipro</a> Design by "
+#~ "<a href=\"http://www.gianmr.com/\">Gian MR</a>"
+#~ msgstr ""
+#~ "Tema <a href=\"https://www.idtheme.com/muvipro/\">Muvipro</a> Di desain "
+#~ "oleh <a href=\"http://www.gianmr.com/\">Gian MR</a>"
+
+#~ msgid "Session Number (TMDB):"
+#~ msgstr "Jumlah Sesi (TMDB):"
+
+#~ msgid "Select popular by comment or by most view."
+#~ msgstr "Pilih populer dengan komentar atau paling banyak dilihat."
+
+#~ msgid "Choice related post by tags or category (genre)"
+#~ msgstr "Pilih film terkait berdasarkan tag atau kategori (genre)"
+
+#~ msgid "Close"
+#~ msgstr "Tutup"
+
+#~ msgid "Related Posts"
+#~ msgstr "Posting Terkait"
+
+#~ msgid "Author Box"
+#~ msgstr "Kotak Penulis"
+
+#~ msgid "Enable Author Box"
+#~ msgstr "Aktifkan Kotak Penulis"
+
+#~ msgid "Check this if you want enable author box in single post."
+#~ msgstr "Cek disini untuk mengaktifkan kotak penulis di single pos"
+
+#~ msgid "Username Color"
+#~ msgstr "Warna Nama Pengguna"
+
+#~ msgid "Description Color"
+#~ msgstr "Warna Deskripsi"
+
+#~ msgid "Website Color"
+#~ msgstr "Warna Situs"
+
+#~ msgid ""
+#~ "If you want add in your own place, you can using this action: "
+#~ "<strong>do_action( 'idmuvi_core_author_box' );</strong> or you can remove "
+#~ "action and add your own function."
+#~ msgstr ""
+#~ "Jika anda ingin menambahkan tempa tanda sendiri, anda dapat menggunakan "
+#~ "tindakan ini: <strong>do_action('idmuvi_core_author_box');</strong> atau "
+#~ "anda dapat menghapus tindakan dan menambahkan fungsi sendiri."
+
+#~ msgid "Choice related post by tags or category"
+#~ msgstr "Pilih pos terkait berdasarkan tag atau kategori"
+
+#~ msgid ""
+#~ "This recent post support jetpack too. If you want change this related "
+#~ "post with jetpack, just install jetpack and activated module Related "
+#~ "Posts For Jetpack. Display using <strong>add_filter( 'the_content', "
+#~ "'idmuvi_core_add_related_the_content', 40 );</strong>"
+#~ msgstr ""
+#~ "Posting terbaur ini dukungan jetpack juga. Jika anda ingin mengubah "
+#~ "posting terkait dengan jetpack, cukup install jetpack dan aktifkan modul "
+#~ "Related Posts For Jetpack. Ditampilkan menggunakan "
+#~ "<strong>add_filter('the_content', 'idmuvi_core_add_related_the_content', "
+#~ "40);</strong>"
+
+#~ msgid "Recent posts with thumbnails widget."
+#~ msgstr "Widget pos Terbaru dengan thumbnail"
+
+#~ msgid "Recent Posts (Idmuvi)"
+#~ msgstr "Posting Terkait (Idmuvi)"
+
+#~ msgid "Link Color"
+#~ msgstr "Warna Link"
+
+#~ msgid "Meta Color"
+#~ msgstr "Warna Meta"
+
+#~ msgid "Related posts:"
+#~ msgstr "Posting terkait:"
+
+#~ msgid ""
+#~ "Display ads on right side logo. You can add adsense or manual banner."
+#~ msgstr ""
+#~ "Menambilkan iklan pada sisi kanan logo. Anda dapat menambahkan adsense "
+#~ "atau banner manual."
+
+#~ msgid "Share this:"
+#~ msgstr "Sebarkan ini:"
+
+#~ msgid "By"
+#~ msgstr "Oleh"
+
+#~ msgid "Maximum length of excerpt"
+#~ msgstr "Maksimuma panjang kutipan"
+
+#~ msgid "Signs after excerpt"
+#~ msgstr "Tanda setelah kutipan"
+
+#~ msgid "Show author?"
+#~ msgstr "Tampilkan penulis?"
+
+#~ msgid "Show Categories?"
+#~ msgstr "Tampilkan Kategori"
+
+#~ msgid "Show Comments Number?"
+#~ msgstr "Tampilkan Jumlah Komentar?"
+
+#~ msgid "Show Date?"
+#~ msgstr "Tampilkan Tanggal?"
+
+#~ msgid "Show Excerpt?"
+#~ msgstr "Tampilkan Kutipan?"
+
+#~ msgid "Error on listing categories"
+#~ msgstr "Kesalahan dalam mendaftar kategori"
+
+#~ msgid "In"
+#~ msgstr "Di"
+
+#~ msgid ""
+#~ "If you want add in your own place, you can using this action: "
+#~ "<strong>do_action( 'idblog_core_author_box' );</strong> or you can remove "
+#~ "action and add your own function."
+#~ msgstr ""
+#~ "Jika anda ingin menambahkan tempat anda sendiri, anda dapat menggunakan "
+#~ "aksi ini: <strong>do_action( 'idblog_core_author_box' );</strong> atau "
+#~ "anda dapat menghapus aksi dan menambahkan fungsi anda sendiri."
+
+#~ msgid ""
+#~ "This recent post support jetpack too. If you want change this related "
+#~ "post with jetpack, just install jetpack and activated module Related "
+#~ "Posts For Jetpack. Display using <strong>add_filter( 'the_content', "
+#~ "'idblog_core_add_related_the_content', 40 );</strong>"
+#~ msgstr ""
+#~ "Posting terkait ini mendukung jetpack juga. Jika anda ingin menganti "
+#~ "posting terkait ini dengan jetpack, cukup pasang jetpack dan aktifkan "
+#~ "module Related Posts For Jetpack. Ditampilkan menggunakan "
+#~ "<strong>add_filter( 'the_content', 'idblog_core_add_related_the_content', "
+#~ "40 );</strong>"
+
+#~ msgid ""
+#~ "This breadcrumbs support breadcrumb navxt or yoast breadcrumb too. If you "
+#~ "want change this breadcrumb with that plugin, just install plugin "
+#~ "breadcrumb navxt or wordpress SEO by seo. Display using "
+#~ "<strong>do_action( 'idblog_core_view_breadcrumbs' );</strong>"
+#~ msgstr ""
+#~ "Breadcrumb ini mendukung breadcrumb NavXT atau breadcrumb Yoast juga. "
+#~ "Jika Anda ingin mengubah breadcrumb ini dengan plugin tersebut, hanya "
+#~ "menginstal plugin NavXT breadcrumb atau SEO wordpress. Tampilan "
+#~ "menggunakan <strong>do_action ('idblog_core_view_breadcrumbs');</strong>"
+
+#~ msgid ""
+#~ "This social support jetpack too. If you want change this share post with "
+#~ "jetpack, just install jetpack and activated module Sharedaddy For "
+#~ "Jetpack, sharedaddy will automatically replace default social share. "
+#~ "Display using <strong>add_filter( 'the_content', "
+#~ "'idblog_core_add_share_the_content', 30 );</strong>. If you activated "
+#~ "opengraph, opengraph from jetpack will disappear. So if you want using "
+#~ "jetpack open graph, you can disable this opengraph. If you using another "
+#~ "opengraph plugin, please disable opengraph. Do not using opengraph plugin "
+#~ "more then one. Opengraph display using <strong>add_action( 'wp_head', "
+#~ "'idblog_opengraph_meta_tags', 1 );</strong>"
+#~ msgstr ""
+#~ "Sosial ini mendukung jetpack juga. Jika anda ingin mengubah posting "
+#~ "berbagi ini dengan jetpack, tinggal install jetpack dan aktifkan modul "
+#~ "Sharedaddy Untuk Jetpack, sharedaddy otomatis akan menggantikan standar "
+#~ "sebarkan sosial. Tampilan menggunakan <strong>add_filter ('the_content', "
+#~ "'idblog_core_add_share_the_content', 30);</strong>. Jika anda "
+#~ "mengaktifkan OpenGraph, OpenGraph dari jetpack akan hilang. Jadi jika "
+#~ "anda ingin menggunakan opengraph jetpack, anda dapat menonaktifkan "
+#~ "OpenGraph ini. Jika anda menggunakan plugin OpenGraph lain, nonaktifkan "
+#~ "OpenGraph ini. Jangan menggunakan OpenGraph Plugin lebih dari satu. "
+#~ "OpenGraph ditampilkan menggunakan <strong>add_action('wp_head', "
+#~ "'idblog_opengraph_meta_tags', 1);</strong>"
+
+#~ msgid "Aweber Form (Idblog)"
+#~ msgstr "Aweber Form (Idblog)"
+
+#~ msgid "Custom Subscribe Form (Idblog)"
+#~ msgstr "Custom Subscribe Form (Idblog)"
+
+#~ msgid "Feedburner Form (Idblog)"
+#~ msgstr "Feedburner Form (Idblog)"
+
+#~ msgid "Getresponse Form (Idblog)"
+#~ msgstr "Getresponse Form (Idblog)"
+
+#~ msgid "Mailchimp Form (Idblog)"
+#~ msgstr "Mailchimp Form (Idblog)"
+
+#~ msgid "Recent Posts (Idblog)"
+#~ msgstr "Posting Terbaru (Idblog)"
+
+#~ msgid "Homepage"
+#~ msgstr "Beranda"
+
+#~ msgid "404 Not found"
+#~ msgstr "404 Tidak ditemukan"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobile"
+
+#~ msgid "Enable Mobile Theme"
+#~ msgstr "Aktifkan Tema Mobile"
+
+#~ msgid "Mobile subdomain"
+#~ msgstr "Subdomain Mobile"
+
+#~ msgid ""
+#~ "Your website will redirect in this subdomain. Please fill with complate "
+#~ "subdomain ex: http://m.domain.com"
+#~ msgstr ""
+#~ "Website anda akan redirect ke subdomain ini. Silahkan isi dengan "
+#~ "subdomain lengkap misal: http://m.domain.com"
+
+#~ msgid ""
+#~ "Please select mobile theme, please upload your mobile theme and select "
+#~ "here."
+#~ msgstr ""
+#~ "Silahkan seleksi tema mobile, silahkan update tema mobile anda dan "
+#~ "seleksi disini."
+
+#~ msgid "Permalink to"
+#~ msgstr "Permalink ke"
+
+#~ msgid "Documentation"
+#~ msgstr "Dokumentasi"
+
+#~ msgid "Home Docs Per Page"
+#~ msgstr "Dok Tiap Halaman Beranda"
+
+#~ msgid "Number of articles to show in documentations home page."
+#~ msgstr "Jumlah artikel yang ditampilkan pada halaman beranda dokumentasi."
+
+#~ msgid "Docs Per Page"
+#~ msgstr "Dok Tiap Halaman"
+
+#~ msgid "Number of articles to show in each page"
+#~ msgstr "Jumlah artikel yang ditampilkan di tiap halaman"
+
+#~ msgid "Home page sidebar"
+#~ msgstr "Sidebar halaman beranda"
+
+#~ msgid "Check documentation home page sidebar"
+#~ msgstr "Cek dokumentasi sidebar halaman beranda"
+
+#~ msgid "Inner pages sidebar"
+#~ msgstr "Dalam sidebar halaman"
+
+#~ msgid "Check documentation inner pages sidebar except home page"
+#~ msgstr "Cek dokumentasi di dalam sidebar halaman kecuali halaman beranda"
+
+#~ msgid "Aweber Form (Salespro)"
+#~ msgstr "Aweber Form (Salespro)"
+
+#~ msgid "Custom Subscribe Form (Salespro)"
+#~ msgstr "Kustom Subscribe Form (Salespro)"
+
+#~ msgid "Feedburner Form (Salespro)"
+#~ msgstr "Feedburner Form (Salespro)"
+
+#~ msgid "Getresponse Form (Salespro)"
+#~ msgstr "Getresponse Form (Salespro)"
+
+#~ msgid "Mailchimp Form (Salespro)"
+#~ msgstr "Mailchimp Form (Salespro)"
+
+#~ msgid "Recent Posts (Salespro)"
+#~ msgstr "Pos Terbaru (Salespro)"
+
+#~ msgid "Parent Doc"
+#~ msgstr "Dok Utama"
+
+#~ msgid "All Documentations"
+#~ msgstr "Semua dokumentasi"
+
+#~ msgid "View Documentation"
+#~ msgstr "Lihat dokumentasi"
+
+#~ msgid "Add Documentation"
+#~ msgstr "Tambahkan Dokumentasi"
+
+#~ msgid "Edit Documentation"
+#~ msgstr "Ubah Dokumentasi"
+
+#~ msgid "Update Documentation"
+#~ msgstr "Perbaharui Dokumentasi"
+
+#~ msgid "Search Documentation"
+#~ msgstr "Cari Dokumentasi"
+
+#~ msgid "Not documentation found"
+#~ msgstr "Dokumentasi tidak ditemukan"
+
+#~ msgid "articles"
+#~ msgstr "artikel"
+
+#~ msgid "No Documentation"
+#~ msgstr "Tidak ada dokumentasi"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Tidak Ditemukan"
+
+#~ msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Baca selengkapnya %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Add category for documentation."
+#~ msgstr "Tambahkan kategori untuk dokumentasi."
+
+#~ msgid "Categories documentation (Salespro)"
+#~ msgstr "Kategori dokumentasi (Salespro)"
+
+#~ msgid "Add recent documentation."
+#~ msgstr "Tambahkan dokumentasi terbaru."
+
+#~ msgid "Recent documentation (Salespro)"
+#~ msgstr "Dokumentasi terbaru (Salespro)"
+
+#~ msgid "Add related documentation, this only show in single documentation."
+#~ msgstr ""
+#~ "Tambahkan dokumentasi terkait, ini hanya ditampilkan pada single "
+#~ "dokumentasi."
+
+#~ msgid "Related documentation (Salespro)"
+#~ msgstr "Dokumentasi terkait (Salespro)"
+
+#~ msgid "Search documentation (Salespro)"
+#~ msgstr "Pencarian dokumentasi (Salespro)"
+
+#~ msgid "Optin Form"
+#~ msgstr "Form Optin"
+
+#~ msgid "Form"
+#~ msgstr "Form"
+
+#~ msgid "Form Method"
+#~ msgstr "Form Method"
+
+#~ msgid "Post"
+#~ msgstr "Post"
+
+#~ msgid "Get"
+#~ msgstr "Get"
+
+#~ msgid "Form Action"
+#~ msgstr "Form Action"
+
+#~ msgid "Form Name"
+#~ msgstr "Form Name"
+
+#~ msgid "Form ID"
+#~ msgstr "Form ID"
+
+#~ msgid "Form Class"
+#~ msgstr "Form Class"
+
+#~ msgid "Form accept-charset"
+#~ msgstr "Form accept-charset"
+
+#~ msgid "Form enctype"
+#~ msgstr "Form enctype"
+
+#~ msgid "Input"
+#~ msgstr "Input"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "name"
+#~ msgstr "name"
+
+#~ msgid "text"
+#~ msgstr "text"
+
+#~ msgid "Email Address"
+#~ msgstr "Alamat Email"
+
+#~ msgid "email"
+#~ msgstr "email"
+
+#~ msgid "thankyou_url"
+#~ msgstr "thankyou_url"
+
+#~ msgid "hidden"
+#~ msgstr "hidden"
+
+#~ msgid "submit"
+#~ msgstr "submit"
+
+#~ msgid "Subscribe Now"
+#~ msgstr "Berlangganan Sekarang"
+
+#~ msgid "Input Type"
+#~ msgstr "Input Type"
+
+#~ msgid "Input Placeholder"
+#~ msgstr "Input Placeholder"
+
+#~ msgid "Input Name"
+#~ msgstr "Input Name"
+
+#~ msgid "Input Value"
+#~ msgstr "Input Value"
+
+#~ msgid "Input Class"
+#~ msgstr "Input Class"
+
+#~ msgid "Input ID"
+#~ msgstr "Input ID"
+
+#~ msgid "View"
+#~ msgstr "Tampilkan"
+
+#~ msgid "Left"
+#~ msgstr "Kiri"
+
+#~ msgid "Center"
+#~ msgstr "Tengah"
+
+#~ msgid "Right"
+#~ msgstr "Kanan"
+
+#~ msgid "Display"
+#~ msgstr "Display"
+
+#~ msgid "Block"
+#~ msgstr "Block"
+
+#~ msgid "Inline"
+#~ msgstr "Inline"
+
+#~ msgid "Typography"
+#~ msgstr "Typography"
+
+#~ msgid "Border"
+#~ msgstr "Border"
+
+#~ msgid "Border Radius"
+#~ msgstr "Border Radius"
+
+#~ msgid "Input Padding"
+#~ msgstr "Input Padding"
+
+#~ msgid "Input Margin"
+#~ msgstr "Input Margin"
+
+#~ msgid "Input Submit (button)"
+#~ msgstr "Input Submit (tombol)"
+
+#~ msgid "Input Submit (button) Hover"
+#~ msgstr "Input Submit (tombol) Sorot"
+
+#~ msgid "Border Color"
+#~ msgstr "Warna Border"
+
+#~ msgid "Related Docs"
+#~ msgstr "Dok terkait"

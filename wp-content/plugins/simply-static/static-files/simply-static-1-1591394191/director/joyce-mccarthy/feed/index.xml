@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Joyce McCarthy &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/director/joyce-mccarthy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Feb 2017 17:56:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>Joyce McCarthy &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jurassic World</title>
+		<link>https://layarbesar.ga/jurassic-world/</link>
+					<comments>https://layarbesar.ga/jurassic-world/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 17:56:06 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[Thriller]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[amusement park]]></category>
+		<category><![CDATA[animal attack]]></category>
+		<category><![CDATA[animal horror]]></category>
+		<category><![CDATA[dinosaur]]></category>
+		<category><![CDATA[disaster]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[escape]]></category>
+		<category><![CDATA[island]]></category>
+		<category><![CDATA[jurassic park]]></category>
+		<category><![CDATA[monster]]></category>
+		<category><![CDATA[sequel]]></category>
+		<category><![CDATA[suspense]]></category>
+		<category><![CDATA[theme park]]></category>
+		<category><![CDATA[tyrannosaurus rex]]></category>
+		<category><![CDATA[velociraptor]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=48</guid>
+
+					<description><![CDATA[Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World,&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/jurassic-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New Zealand &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/country/new-zealand/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Feb 2017 12:33:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>New Zealand &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Hobbit: The Battle of the Five Armies</title>
+		<link>https://layarbesar.ga/the-hobbit-the-battle-of-the-five-armies/</link>
+					<comments>https://layarbesar.ga/the-hobbit-the-battle-of-the-five-armies/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 12:33:01 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[corruption]]></category>
+		<category><![CDATA[dragon]]></category>
+		<category><![CDATA[dwarves]]></category>
+		<category><![CDATA[elves]]></category>
+		<category><![CDATA[epic battle]]></category>
+		<category><![CDATA[hobbit]]></category>
+		<category><![CDATA[middle earth]]></category>
+		<category><![CDATA[middle-earth (tolkien)]]></category>
+		<category><![CDATA[orcs]]></category>
+		<category><![CDATA[sword and sorcerery]]></category>
+		<category><![CDATA[unlikely friendship]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=26</guid>
+
+					<description><![CDATA[Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor&#8217;s mountain of treasure&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor&#8217;s mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo&#8217;s hands.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/the-hobbit-the-battle-of-the-five-armies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

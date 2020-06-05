@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Romance &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/genre/romance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Feb 2017 18:21:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>Romance &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Passengers</title>
+		<link>https://layarbesar.ga/passengers/</link>
+					<comments>https://layarbesar.ga/passengers/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 18:21:04 +0000</pubDate>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[isolation]]></category>
+		<category><![CDATA[lying]]></category>
+		<category><![CDATA[malfunction]]></category>
+		<category><![CDATA[space]]></category>
+		<category><![CDATA[spaceship]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=60</guid>
+
+					<description><![CDATA[A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers.&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/passengers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

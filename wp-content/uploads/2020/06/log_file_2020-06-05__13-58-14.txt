@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Muvipro Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/layarbesar
+Data file = C:\xampp\htdocs\layarbesar/wp-content/themes/muvipro-1.0.9/inc/demo-data/demo-content.xml
+Widget file = C:\xampp\htdocs\layarbesar/wp-content/themes/muvipro-1.0.9/inc/demo-data/widgets.json
+Customizer file = C:\xampp\htdocs\layarbesar/wp-content/themes/muvipro-1.0.9/inc/demo-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Text - Advertisement - Imported
+Search - Search Blog - Imported
+Recent Blogs (Idmuvi) - Recent Blogs - Imported
+
+Sidebar : 
+
+Text - Advertisement - Imported
+Movie Search (Idmuvi) - Search Movie - Imported
+Most View Movies (Idmuvi) - Most View Movies - Imported
+
+Home Module : 
+
+Module Posts (Muvipro) - Drama - Imported
+Module Posts (Muvipro) - Action - Imported
+
+Footer 1 : 
+
+Text - Tentang muvipro - Imported
+
+Footer 2 : 
+
+Views - Most View Movie - Imported
+
+Footer 3 : 
+
+Pages - Halaman - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Donald Sparks &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/director/donald-sparks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Feb 2017 18:20:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>Donald Sparks &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Arrival</title>
+		<link>https://layarbesar.ga/arrival/</link>
+					<comments>https://layarbesar.ga/arrival/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 18:20:35 +0000</pubDate>
+				<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[alien]]></category>
+		<category><![CDATA[alien language]]></category>
+		<category><![CDATA[based on short story]]></category>
+		<category><![CDATA[communication]]></category>
+		<category><![CDATA[female lead]]></category>
+		<category><![CDATA[first contact]]></category>
+		<category><![CDATA[linguist]]></category>
+		<category><![CDATA[spacecraft]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=57</guid>
+
+					<description><![CDATA[Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/arrival/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

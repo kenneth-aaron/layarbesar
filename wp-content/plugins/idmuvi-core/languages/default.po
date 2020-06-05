@@ -1,0 +1,2075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Idmuvi Core 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-23 15:19+0700\n"
+"PO-Revision-Date: 2020-03-23 15:19+0700\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: Gian Mokhammad R <g14nblog@gmail.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html_x;"
+"esc_html__;_n_noop:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../idmuvi-core.php:168
+msgid "Movie data loaded. Wait a second."
+msgstr ""
+
+#: ../idmuvi-core.php:169
+msgid "Load More"
+msgstr ""
+
+#: ../idmuvi-core.php:171
+msgid "No more movie."
+msgstr ""
+
+#: ../lib/ajax_search.php:50
+msgid "No results"
+msgstr ""
+
+#: ../lib/amember_http_api.php:19
+msgid "Muvipro License"
+msgstr ""
+
+#: ../lib/amember_http_api.php:35
+msgid "Muvipro License Options"
+msgstr ""
+
+#: ../lib/amember_http_api.php:44
+msgid "License Key"
+msgstr ""
+
+#: ../lib/amember_http_api.php:48
+msgid "Enter your license key here"
+msgstr ""
+
+#: ../lib/amember_http_api.php:54 ../lib/amember_http_api.php:70
+msgid "Activate License"
+msgstr ""
+
+#: ../lib/amember_http_api.php:59
+msgid "License Active"
+msgstr ""
+
+#: ../lib/amember_http_api.php:61
+msgid "Deactivate License"
+msgstr ""
+
+#: ../lib/amember_http_api.php:63
+msgid "Congratulations, your license is active."
+msgstr ""
+
+#: ../lib/amember_http_api.php:64
+msgid ""
+"You can disable license for this domain by entering the license key to the "
+"form and clicking Deactivate License"
+msgstr ""
+
+#: ../lib/amember_http_api.php:185 ../lib/amember_http_api.php:233
+#: ../lib/amember_http_api.php:306 ../lib/amember_http_api.php:334
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../lib/amember_http_api.php:193 ../lib/amember_http_api.php:314
+msgid "Empty or invalid license key submitted."
+msgstr ""
+
+#: ../lib/amember_http_api.php:197 ../lib/amember_http_api.php:318
+msgid "License key not found on our server."
+msgstr ""
+
+#: ../lib/amember_http_api.php:201
+msgid "License key has been disabled."
+msgstr ""
+
+#: ../lib/amember_http_api.php:205
+msgid "Your license key expired on"
+msgstr ""
+
+#: ../lib/amember_http_api.php:209 ../lib/amember_http_api.php:322
+msgid "Activation server error."
+msgstr ""
+
+#: ../lib/amember_http_api.php:213 ../lib/amember_http_api.php:326
+msgid "Activation failed: invalid input."
+msgstr ""
+
+#: ../lib/amember_http_api.php:217
+msgid "No more activations allowed. You must buy new license key."
+msgstr ""
+
+#: ../lib/amember_http_api.php:221
+msgid "No activation found for this installation."
+msgstr ""
+
+#: ../lib/amember_http_api.php:225
+msgid "Re-activation is not allowed"
+msgstr ""
+
+#: ../lib/amember_http_api.php:229 ../lib/amember_http_api.php:330
+msgid "Error returned from activation server"
+msgstr ""
+
+#: ../lib/amember_http_api.php:443
+msgid "Success."
+msgstr ""
+
+#: ../lib/banner.php:217 ../lib/banner.php:238 ../lib/banner.php:262
+msgid "close"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:76
+msgctxt "Post Type General Name"
+msgid "Blogs"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:77
+msgctxt "Post Type Singular Name"
+msgid "Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:78
+msgid "Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:79
+msgid "Parent Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:80
+msgid "All Blogs"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:81
+msgid "View Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:82
+msgid "Add Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:83 ../lib/movie/taxonomy-post-type.php:381
+#: ../lib/movie/taxonomy-post-type.php:438
+msgid "Add New"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:84
+msgid "Edit Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:85
+msgid "Update Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:86
+msgid "Search Blog"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:87
+msgid "Not blog found"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:88 ../lib/movie/taxonomy-post-type.php:386
+#: ../lib/movie/taxonomy-post-type.php:443
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:129
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:130
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:131
+msgid "Search Categories"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:132
+msgid "All Categories"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:133
+msgid "Parent Category"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:134
+msgid "Parent Category:"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:135
+msgid "Edit Category"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:136
+msgid "Update Category"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:137
+msgid "Add New Category"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:138
+msgid "New Category Name"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:139
+msgid "Categories"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:155
+msgctxt "Taxonomy General Name"
+msgid "Tags"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:156
+msgctxt "Taxonomy Singular Name"
+msgid "Tag"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:157
+msgid "Tags"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:158
+msgid "All Tags"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:159
+msgid "Parent Tag"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:160
+msgid "Parent Tag:"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:161
+msgid "New Tag Tag"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:162
+msgid "Add New Item"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:163
+msgid "Edit Tag"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:164
+msgid "Update Tag"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:165
+msgid "View Tag"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:166
+msgid "Separate items with commas"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:167
+msgid "Add or remove items"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:168
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:169
+msgid "Popular Tags"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:170
+msgid "Search Tags"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:171
+msgid "Not Found"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:172
+msgid "No items"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:173
+msgid "Tags list"
+msgstr ""
+
+#: ../lib/blog/blog.cpt.php:174
+msgid "Tags list navigation"
+msgstr ""
+
+#: ../lib/blog/includes/functions.php:61
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../lib/blog/includes/functions.php:63
+msgid "Add widgets for blog here."
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:32
+msgid "A list or dropdown of categories blog."
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:35
+msgid "Categories Blog (Idmuvi)"
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:77
+msgid "Select Category"
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:152
+#: ../lib/blog/widgets/recent-blogs-widget.php:315
+#: ../lib/blog/widgets/search-blogs-widget.php:99
+#: ../widgets/custom-form-widget.php:328 ../widgets/feedburner-widget.php:264
+#: ../widgets/mostview-posts-widget.php:357
+#: ../widgets/recent-posts-widget.php:310 ../widgets/search-widget.php:265
+msgid "Title:"
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:156
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:159
+msgid "Show post counts"
+msgstr ""
+
+#: ../lib/blog/widgets/categories-blogs-widget.php:162
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:34
+msgid "Recent blogs with thumbnails widget."
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:36
+msgid "Recent Blogs (Idmuvi)"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:176
+#: ../widgets/mostview-posts-widget.php:200
+#: ../widgets/recent-posts-widget.php:170
+msgid "Permalink to: "
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:319
+#: ../widgets/mostview-posts-widget.php:361
+#: ../widgets/recent-posts-widget.php:314
+msgid "Selected categories"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:322
+#: ../widgets/mostview-posts-widget.php:364
+#: ../widgets/recent-posts-widget.php:317
+msgid "Category Names, separated by commas. Eg: News, Home Design, Technology."
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:325
+#: ../widgets/mostview-posts-widget.php:367
+#: ../widgets/recent-posts-widget.php:320
+msgid "Selected tags"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:328
+#: ../widgets/mostview-posts-widget.php:370
+#: ../widgets/recent-posts-widget.php:323
+msgid "Tag Names, separated by commas. Eg: Tag 1, Tag 2, etc."
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:331
+#: ../widgets/mostview-posts-widget.php:373
+#: ../widgets/recent-posts-widget.php:334
+msgid "Number post"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:335
+#: ../widgets/mostview-posts-widget.php:377
+#: ../widgets/recent-posts-widget.php:338
+msgid "Maximum length of title"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:340
+#: ../widgets/mostview-posts-widget.php:394
+#: ../widgets/recent-posts-widget.php:343
+msgid "Do not list the current post?"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:344
+msgid "Show blog meta?"
+msgstr ""
+
+#: ../lib/blog/widgets/recent-blogs-widget.php:348
+#: ../widgets/mostview-posts-widget.php:406
+#: ../widgets/recent-posts-widget.php:351
+msgid "Show Thumbnail?"
+msgstr ""
+
+#: ../lib/blog/widgets/search-blogs-widget.php:32
+msgid "Add search for documentation."
+msgstr ""
+
+#: ../lib/blog/widgets/search-blogs-widget.php:35
+msgid "Search Blogs (Idmuvi)"
+msgstr ""
+
+#: ../lib/blog/widgets/search-blogs-widget.php:59
+msgid "Search for:"
+msgstr ""
+
+#: ../lib/blog/widgets/search-blogs-widget.php:60
+msgid "Search blogs &hellip;"
+msgstr ""
+
+#: ../lib/blog/widgets/search-blogs-widget.php:63
+#: ../lib/movie/taxonomy-post-type.php:89 ../widgets/search-widget.php:210
+msgid "Search"
+msgstr ""
+
+#: ../lib/external/class.settings-api.php:383
+msgid "Choose File"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:337
+msgid "Find Episode"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:497
+msgid "Episode Settings:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:498 ../lib/movie/metabox.php:654
+msgid "Player Settings:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:499 ../lib/movie/metabox.php:655
+msgid "Download Settings:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:511 ../lib/movie/metabox.tv.php:499
+msgid "Enter TMDB ID:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:516
+msgid ""
+"Please insert id tmdb for episode.<br/>Example link from tmdb https://www."
+"themoviedb.org/tv/<strong>30991</strong>/season/<strong>1</strong>/episode/"
+"<strong>25</strong> (Just insert with <strong>30991</strong> - <strong>1</"
+"strong> - <strong>25</strong>)."
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:524
+msgid "Serie Name (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:530
+msgid "Episode Name (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:536
+msgid "Air Date (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:542
+msgid "Episode Number (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:548
+msgid "Season Number (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:554 ../lib/movie/metabox.php:719
+#: ../lib/movie/metabox.tv.php:546
+msgid "TMDB Rating:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:561 ../lib/movie/metabox.php:738
+#: ../lib/movie/metabox.tv.php:553
+msgid "Youtube ID For Trailer (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:567 ../lib/movie/metabox.php:744
+#: ../lib/movie/metabox.tv.php:559
+msgid "Poster Url (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:574 ../lib/movie/metabox.php:756
+#: ../lib/movie/metabox.tv.php:566
+msgid "tmdbID:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:576
+msgid ""
+"Example link from tmdb https://www.themoviedb.org/tv/<strong>30991</strong>/"
+"season/1/episode/25 (Just insert with <strong>30991</strong>."
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:582 ../lib/movie/metabox.php:763
+msgid "Player Notification"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:587 ../lib/movie/metabox.php:768
+msgid "Server 1"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:588 ../lib/movie/metabox.php:769
+msgid "Server 2"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:589 ../lib/movie/metabox.php:770
+msgid "Server 3"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:590 ../lib/movie/metabox.php:771
+msgid "Server 4"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:591 ../lib/movie/metabox.php:772
+msgid "Server 5"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:592 ../lib/movie/metabox.php:773
+msgid "Server 6"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:593 ../lib/movie/metabox.php:774
+msgid "Server 7"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:594 ../lib/movie/metabox.php:775
+msgid "Server 8"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:595 ../lib/movie/metabox.php:776
+msgid "Server 9"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:596 ../lib/movie/metabox.php:777
+msgid "Server 10"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:597 ../lib/movie/metabox.php:778
+msgid "Server 11"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:598 ../lib/movie/metabox.php:779
+msgid "Server 12"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:599 ../lib/movie/metabox.php:780
+msgid "Server 13"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:600 ../lib/movie/metabox.php:781
+msgid "Server 14"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:601 ../lib/movie/metabox.php:782
+msgid "Server 15"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:605 ../lib/movie/metabox.php:786
+msgid "Title tab 1:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:608 ../lib/movie/metabox.php:789
+msgid "Embed Code 1:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:612 ../lib/movie/metabox.php:793
+msgid "Title tab 2:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:615 ../lib/movie/metabox.php:796
+msgid "Embed Code 2:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:619 ../lib/movie/metabox.php:800
+msgid "Title tab 3:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:622 ../lib/movie/metabox.php:803
+msgid "Embed Code 3:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:626 ../lib/movie/metabox.php:807
+msgid "Title tab 4:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:629 ../lib/movie/metabox.php:810
+msgid "Embed Code 4:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:633 ../lib/movie/metabox.php:814
+msgid "Title tab 5:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:636 ../lib/movie/metabox.php:817
+msgid "Embed Code 5:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:640 ../lib/movie/metabox.php:821
+msgid "Title tab 6:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:643 ../lib/movie/metabox.php:824
+msgid "Embed Code 6:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:647 ../lib/movie/metabox.php:828
+msgid "Title tab 7:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:650 ../lib/movie/metabox.php:831
+msgid "Embed Code 7:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:654 ../lib/movie/metabox.php:835
+msgid "Title tab 8:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:657 ../lib/movie/metabox.php:838
+msgid "Embed Code 8:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:661 ../lib/movie/metabox.php:842
+msgid "Title tab 9:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:664 ../lib/movie/metabox.php:845
+msgid "Embed Code 9:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:668 ../lib/movie/metabox.php:849
+msgid "Title tab 10:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:671 ../lib/movie/metabox.php:852
+msgid "Embed Code 10:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:675 ../lib/movie/metabox.php:856
+msgid "Title tab 11:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:678 ../lib/movie/metabox.php:859
+msgid "Embed Code 11:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:682 ../lib/movie/metabox.php:863
+msgid "Title tab 12:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:685 ../lib/movie/metabox.php:866
+msgid "Embed Code 12:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:689 ../lib/movie/metabox.php:870
+msgid "Title tab 13:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:692 ../lib/movie/metabox.php:873
+msgid "Embed Code 13:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:696 ../lib/movie/metabox.php:877
+msgid "Title tab 14:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:699 ../lib/movie/metabox.php:880
+msgid "Embed Code 14:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:703 ../lib/movie/metabox.php:884
+msgid "Title tab 15:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:706 ../lib/movie/metabox.php:887
+msgid "Embed Code 15:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:712 ../lib/movie/metabox.php:893
+msgid "Download 1"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:713 ../lib/movie/metabox.php:894
+msgid "Download 2"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:714 ../lib/movie/metabox.php:895
+msgid "Download 3"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:715 ../lib/movie/metabox.php:896
+msgid "Download 4"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:716 ../lib/movie/metabox.php:897
+msgid "Download 5"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:717 ../lib/movie/metabox.php:898
+msgid "Download 6"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:718 ../lib/movie/metabox.php:899
+msgid "Download 7"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:719 ../lib/movie/metabox.php:900
+msgid "Download 8"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:720 ../lib/movie/metabox.php:901
+msgid "Download 9"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:721 ../lib/movie/metabox.php:902
+msgid "Download 10"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:722 ../lib/movie/metabox.php:903
+msgid "Download 11"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:723 ../lib/movie/metabox.php:904
+msgid "Download 12"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:724 ../lib/movie/metabox.php:905
+msgid "Download 13"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:725 ../lib/movie/metabox.php:906
+msgid "Download 14"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:726 ../lib/movie/metabox.php:907
+msgid "Download 15"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:730 ../lib/movie/metabox.php:911
+msgid "Title Download 1:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:733 ../lib/movie/metabox.php:914
+msgid "URL Download 1:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:737 ../lib/movie/metabox.php:918
+msgid "Title Download 2:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:740 ../lib/movie/metabox.php:921
+msgid "URL Download 2:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:744 ../lib/movie/metabox.php:925
+msgid "Title Download 3:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:747 ../lib/movie/metabox.php:928
+msgid "URL Download 3:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:751 ../lib/movie/metabox.php:932
+msgid "Title Download 4:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:754 ../lib/movie/metabox.php:935
+msgid "URL Download 4:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:758 ../lib/movie/metabox.php:939
+msgid "Title Download 5:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:761 ../lib/movie/metabox.php:942
+msgid "URL Download 5:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:765 ../lib/movie/metabox.php:946
+msgid "Title Download 6:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:768 ../lib/movie/metabox.php:949
+msgid "URL Download 6:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:772 ../lib/movie/metabox.php:953
+msgid "Title Download 7:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:775 ../lib/movie/metabox.php:956
+msgid "URL Download 7:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:779 ../lib/movie/metabox.php:960
+msgid "Title Download 8:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:782 ../lib/movie/metabox.php:963
+msgid "URL Download 8:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:786 ../lib/movie/metabox.php:967
+msgid "Title Download 9:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:789 ../lib/movie/metabox.php:970
+msgid "URL Download 9:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:793 ../lib/movie/metabox.php:974
+msgid "Title Download 10:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:796 ../lib/movie/metabox.php:977
+msgid "URL Download 10:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:800 ../lib/movie/metabox.php:981
+msgid "Title Download 11:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:803 ../lib/movie/metabox.php:984
+msgid "URL Download 11:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:807 ../lib/movie/metabox.php:988
+msgid "Title Download 12:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:810 ../lib/movie/metabox.php:991
+msgid "URL Download 12:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:814 ../lib/movie/metabox.php:995
+msgid "Title Download 13:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:817 ../lib/movie/metabox.php:998
+msgid "URL Download 13:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:821 ../lib/movie/metabox.php:1002
+msgid "Title Download 14:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:824 ../lib/movie/metabox.php:1005
+msgid "URL Download 14:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:828 ../lib/movie/metabox.php:1009
+msgid "Title Download 15:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:831 ../lib/movie/metabox.php:1012
+msgid "URL Download 15:"
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:871 ../lib/movie/metabox.php:1052
+#: ../lib/movie/metabox.tv.php:607
+msgid "Something went wrong while downloading this file."
+msgstr ""
+
+#: ../lib/movie/metabox.eps.php:881 ../lib/movie/metabox.php:1062
+#: ../lib/movie/metabox.tv.php:617
+msgid "something went wrong. movie/xxx.php:665"
+msgstr ""
+
+#: ../lib/movie/metabox.php:487
+msgid "Find Movie"
+msgstr ""
+
+#: ../lib/movie/metabox.php:653
+msgid "Movie Settings:"
+msgstr ""
+
+#: ../lib/movie/metabox.php:666
+msgid "Enter IMDB/TMDB ID:"
+msgstr ""
+
+#: ../lib/movie/metabox.php:669
+msgid ""
+"You can insert id from imdb or tmdb.<br/>Example link imdb: http://www.imdb."
+"com/title/<strong>tt2582802</strong>/ (Just insert with <strong>tt2582802</"
+"strong>).<br/>Example link from tmdb https://www.themoviedb.org/movie/"
+"<strong>244786</strong>-whiplash (Just insert with <strong>244786</strong>)."
+msgstr ""
+
+#: ../lib/movie/metabox.php:677
+msgid "Title (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:683
+msgid "Language (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:689
+msgid "Tagline (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:695
+msgid "MPAA Rating (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:701 ../lib/movie/metabox.tv.php:516
+msgid "Relase Date (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:707 ../lib/movie/metabox.tv.php:522
+msgid "Relase Year (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:713 ../lib/movie/metabox.tv.php:534
+msgid "Runtime in minutes (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:726
+msgid "Budget (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:732
+msgid "Revenue (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.php:751
+msgid "imdbID:"
+msgstr ""
+
+#: ../lib/movie/metabox.tv.php:386
+msgid "Find TV Shows"
+msgstr ""
+
+#: ../lib/movie/metabox.tv.php:486
+msgid "TV Shows Settings:"
+msgstr ""
+
+#: ../lib/movie/metabox.tv.php:502
+msgid ""
+"Please insert id tmdb.<br/>Example link from tmdb https://www.themoviedb.org/"
+"tv/<strong>30991</strong>-cowboy-bebop (Just insert with <strong>30991</"
+"strong>)."
+msgstr ""
+
+#: ../lib/movie/metabox.tv.php:510
+msgid "Original Name (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.tv.php:528
+msgid "Last Air Date (TMDB):"
+msgstr ""
+
+#: ../lib/movie/metabox.tv.php:540
+msgid "Number Of Episode (TMDB):"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:26
+#: ../lib/movie/taxonomy-post-type.php:44
+msgid "Movies"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:27
+msgid "All Movies"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:28
+#: ../lib/movie/taxonomy-post-type.php:46
+msgid "Add Movie"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:45
+#: ../lib/movie/taxonomy-post-type.php:49 ../widgets/search-widget.php:81
+msgid "Movie"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:47
+msgid "Add New movie"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:48
+msgid "Edit Movie"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:85
+msgid "Genres"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:86
+msgid "Genre"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:90
+msgid "Popular"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:91
+msgid "All"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:92
+#: ../lib/movie/taxonomy-post-type.php:93
+msgid "Parent"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:94
+msgid "Edit"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:95
+msgid "Update"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:96
+msgid "Add new"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:97
+msgid "New"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:113
+msgctxt "taxonomy general name"
+msgid "Directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:114
+msgctxt "taxonomy singular name"
+msgid "Director"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:115
+msgid "Search Directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:116
+msgid "Popular Directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:117
+msgid "All Directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:120
+msgid "Edit Director"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:121
+msgid "Update Director"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:122
+msgid "Add New Director"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:123
+msgid "New Director Name"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:124
+msgid "Separate directors with commas"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:125
+msgid "Add or remove directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:126
+msgid "Choose from the most used directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:127
+msgid "No directors found."
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:128
+msgid "Directors"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:147
+msgctxt "taxonomy general name"
+msgid "Casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:148
+msgctxt "taxonomy singular name"
+msgid "Cast"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:149
+msgid "Search Casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:150
+msgid "Popular Casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:151
+msgid "All Casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:154
+msgid "Edit Cast"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:155
+msgid "Update Cast"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:156
+msgid "Add New Cast"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:157
+msgid "New Cast Name"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:158
+msgid "Separate casts with commas"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:159
+msgid "Add or remove casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:160
+msgid "Choose from the most used casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:161
+msgid "No casts found."
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:162
+msgid "Casts"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:181
+msgctxt "taxonomy general name"
+msgid "Years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:182
+msgctxt "taxonomy singular name"
+msgid "Year"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:183
+msgid "Search Years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:184
+msgid "Popular Years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:185 ../widgets/search-widget.php:158
+msgid "All Years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:188
+msgid "Edit Year"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:189
+msgid "Update Year"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:190
+msgid "Add New Year"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:191
+msgid "New Year Name"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:192
+msgid "Separate years with commas"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:193
+msgid "Add or remove years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:194
+msgid "Choose from the most used years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:195
+msgid "No years found."
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:196
+msgid "Years"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:215
+msgctxt "taxonomy general name"
+msgid "Countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:216
+msgctxt "taxonomy singular name"
+msgid "Country"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:217
+msgid "Search Countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:218
+msgid "Popular Countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:219 ../widgets/search-widget.php:177
+msgid "All Countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:222
+msgid "Edit Country"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:223
+msgid "Update Country"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:224
+msgid "Add New Country"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:225
+msgid "New Country Name"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:226
+msgid "Separate countries with commas"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:227
+msgid "Add or remove countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:228
+msgid "Choose from the most used countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:229
+msgid "No countries found."
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:230
+msgid "Countries"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:249
+msgctxt "taxonomy general name"
+msgid "Networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:250
+msgctxt "taxonomy singular name"
+msgid "Network"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:251
+msgid "Search Networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:252
+msgid "Popular Networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:253
+msgid "All Networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:256
+msgid "Edit Network"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:257
+msgid "Update Network"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:258
+msgid "Add New Network"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:259
+msgid "New Network Name"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:260
+msgid "Separate networks with commas"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:261
+msgid "Add or remove networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:262
+msgid "Choose from the most used networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:263
+msgid "No networks found."
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:264
+msgid "Networks"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:283
+msgctxt "taxonomy general name"
+msgid "Qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:284
+msgctxt "taxonomy singular name"
+msgid "Quality"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:285
+msgid "Search Qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:286
+msgid "Popular Qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:287 ../widgets/search-widget.php:196
+msgid "All Qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:290
+msgid "Edit Quality"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:291
+msgid "Update Quality"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:292
+msgid "Add New Quality"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:293
+msgid "New Quality Name"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:294
+msgid "Separate qualities with commas"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:295
+msgid "Add or remove qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:296
+msgid "Choose from the most used qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:297
+msgid "No qualities found."
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:298
+msgid "Qualities"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:318
+msgid "Index"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:374
+msgctxt "Post Type General Name"
+msgid "Tv Shows"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:375
+msgctxt "Post Type Singular Name"
+msgid "Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:376
+msgid "Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:377
+msgid "Parent Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:378
+msgid "All Tv Shows"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:379
+msgid "View Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:380
+msgid "Add Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:382
+msgid "Edit Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:383
+msgid "Update Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:384
+msgid "Search Tv Show"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:385
+msgid "Not Tv Show found"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:431
+msgctxt "Post Type General Name"
+msgid "Episodes"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:432
+msgctxt "Post Type Singular Name"
+msgid "Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:433
+msgid "Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:434
+msgid "Parent Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:435
+msgid "All Episodes"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:436
+msgid "View Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:437
+msgid "Add Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:439
+msgid "Edit Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:440
+msgid "Update Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:441
+msgid "Search Episode"
+msgstr ""
+
+#: ../lib/movie/taxonomy-post-type.php:442
+msgid "Not Episode found"
+msgstr ""
+
+#: ../lib/update/github-checker.php:119
+msgid "There is no changelog available."
+msgstr ""
+
+#: ../lib/update/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr ""
+
+#: ../lib/update/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr ""
+
+#: ../lib/update/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: ../lib/update/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: ../lib/z_license.idmuvi-core.php:64
+msgid "License Key Not Found"
+msgstr ""
+
+#: ../lib/z_license.idmuvi-core.php:80 ../lib/z_setting.idmuvi-core.php:213
+msgid "Note"
+msgstr ""
+
+#: ../lib/z_license.idmuvi-core.php:81
+msgid ""
+"Please insert your own license key <a href=\"plugins.php?page=muvipro-license"
+"\">here</a>."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:64
+msgid "Ads"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:68
+msgid "TMDB Settings"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:72
+msgid "Ajax & content"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:76
+msgid "Other"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:92
+msgid "Top Banner"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:93
+msgid "Display ads on very top. You can add adsense or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:98
+msgid "Top Banner After Menu"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:99
+msgid "Display ads after menu. You can add adsense or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:104
+msgid "Top Banner Archive"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:105
+msgid ""
+"Display ads before post list in archive and index page. You can add adsense "
+"or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:110
+msgid "Before Single Content"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:111
+msgid ""
+"Display ads before single content. You can add adsense or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:117
+msgid "Position"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:129
+msgid "After Single Content"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:130
+msgid "Display ads after single content. You can add adsense or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:136 ../lib/z_setting.idmuvi-core.php:154
+msgid "Alignment"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:147
+msgid "Inside Single Content"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:148
+msgid ""
+"Display ads inside paragraph single content. You can add adsense or manual "
+"banner. Ads will not display if you have less than three paragraph in your "
+"post."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:165
+msgid "Floating Banner Left"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:166
+msgid ""
+"Display floating banner in left side. You can add adsense or manual banner. "
+"Display only on desktop."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:171
+msgid "Floating Banner Right"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:172
+msgid ""
+"Display floating banner in right side. You can add adsense or manual banner. "
+"Display only on desktop."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:177
+msgid "Floating Banner Footer"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:178
+msgid ""
+"Display floating banner in footer. You can add adsense or manual banner. "
+"Display only on desktop."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:183
+msgid "Footer Banner"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:184
+msgid "Display banner in footer. You can add adsense or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:189
+msgid "Before player Banner"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:190
+msgid ""
+"Display banner before player. You can add adsense or manual banner. Require "
+"player is active."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:195
+msgid "After player banner"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:196
+msgid ""
+"Display banner after player. You can add adsense or manual banner. Require "
+"player is active."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:201
+msgid "Popup banner"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:202
+msgid ""
+"Display popup banner in all page. You can add adsense or manual banner. Max "
+"width is 325px, and all image will resize to fullwidth (325px), so please "
+"using banner with width 325px. This banner will delay 3 seconds before load. "
+"Require theme muvipro."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:207
+msgid "Banner In Player (336x200)"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:208
+msgid "Display banner in player. You can add adsense or manual banner."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:214
+msgid ""
+"Some ad place maybe conflict with Term of Use ad provider like adsense. "
+"Please read TOS first before you insert the ads. Adsense TOS: https://www."
+"google.com/adsense/policies. All field above support shortcode too.<br /> "
+"For anti adblock, will give overlay notification, effect will cause a drop "
+"visitors in your website."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:222
+msgid "Enable TMDB API"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:223
+msgid ""
+"Check this if you want enable tmdb data scrapping in movie metaboxes. Some "
+"metaboxes need this options."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:229
+msgid "TMDB API Key"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:230
+msgid ""
+"Add API Key from themoviedb.org. Please config your api key in https://www."
+"themoviedb.org/account/"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:236
+msgid "TMDB Languange"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:275
+msgid "Enable Ajax Navigation"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:276
+msgid ""
+"Check this if you want enable ajax navigation. If you using infinite scroll "
+"from jetpack, please disable it, to enable this feature."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:282
+msgid "Type Navigation"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:293
+msgid "Content Order By"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:294
+msgid ""
+"Select your order by in index and archive page. Note: if you select by year, "
+"you must edit all movie and insert year in Release Year in custom field. And "
+"for rating you must insert TMDB Rating in custom field."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:307
+msgid "Enable Ajax Search"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:308
+msgid "Check this if you want enable ajax in search form."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:317
+msgid "Facebook Pixel ID"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:318
+msgid ""
+"If you want adding Facebook Conversion Pixel code to WordPress sites, enter "
+"your facebook pixel ID here or you can add complate code via Head Script."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:323
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:324
+msgid ""
+"Enter your Google Analytics code (Ex: UA-XXXXX-X) or you can add complate "
+"code via Footer Script."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:329
+msgid "Head script"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:330
+msgid "These scripts will be printed in the <code>&lt;head&gt;</code> section."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:335
+msgid "Footer script"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:336
+msgid "These scripts will be printed above the <code>&lt;/body&gt;</code> tag."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:341
+msgid "Remove Emoji Script"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:342
+msgid ""
+"Check this if you want remove emoji script from <code>&lt;head&gt;</code> "
+"section. This can improve your web performance."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:348
+msgid "Remove Script Version"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:349
+msgid ""
+"Check this if you want remove script version from JS and CSS. This can "
+"improve your web performance."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:355
+msgid "Remove Jquery Migrate"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:356
+msgid ""
+"Check this if you want remove jquery migrate, if this conflict with some "
+"plugin please do not activated. This can improve your web performance."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:362
+msgid "Remove WP Oembed"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:363
+msgid ""
+"Check this if you want remove wp oembed feature, if this conflict with some "
+"plugin please do not activated. This can improve your web performance."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:369
+msgid "Remove WP Head Meta Tag"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:370
+msgid ""
+"Check this if you want remove wp head meta tag, if this conflict with some "
+"plugin please do not activated. This option can remove wp meta tag "
+"generator, rds, wlwmanifest, feed links, shortlink, comments feed so your "
+"head tag look simple and hope can fast your index."
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:376
+msgid "Remove data uninstaller"
+msgstr ""
+
+#: ../lib/z_setting.idmuvi-core.php:377
+msgid ""
+"Check this if you want remove data from database when plugin is uninstall."
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:34
+msgid "Add simple custom subscribe form in your widget."
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:36
+msgid "Custom Subscribe Form (Idmuvi)"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:332
+msgid "Action URL *(Required)"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:335
+msgid ""
+"For example, you get form code with &lt;form action=\"http://example.com/"
+"subscribeform\" method=\"post\"&gt; just fill with http://example.com/"
+"subscribeform"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:338
+msgid "Select Method:"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:340
+msgid "post"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:341
+msgid "get"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:346
+msgid "Enable Full Name Field"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:350
+msgid "Enable Email Field"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:353
+msgid "Hidden Input:"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:356
+msgid ""
+"Fill with hidden field for example &lt;input name=\"hidden_name1\" type="
+"\"hidden\" value=\"hidden_value1\" /&gt;&lt;input name=\"hidden_name2\" type="
+"\"hidden\" value=\"hidden_value2\" /&gt;"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:359
+msgid "Other Input:"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:362
+msgid ""
+"Fill with other field if you need other input for your subscribe form. For "
+"example &lt;input name=\"city\" type=\"text\" placeholder=\"Enter your city"
+"\" value=\"\" /&gt;&lt;input name=\"age\" type=\"text\" placeholder=\"Enter "
+"your age\" value=\"\" /&gt;"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:366 ../widgets/feedburner-widget.php:283
+msgid "Force Input 100%"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:369
+msgid "Placeholder For Name Field"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:373 ../widgets/feedburner-widget.php:274
+msgid "Placeholder For Email Address Field"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:377 ../widgets/feedburner-widget.php:278
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:381 ../widgets/feedburner-widget.php:286
+msgid "Intro Text:"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:385 ../widgets/feedburner-widget.php:290
+msgid "Spam Text:"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:389 ../widgets/feedburner-widget.php:294
+msgid "Background Color"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:393 ../widgets/feedburner-widget.php:298
+msgid "Text Color"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:397 ../widgets/feedburner-widget.php:302
+msgid "Button Text Color"
+msgstr ""
+
+#: ../widgets/custom-form-widget.php:401 ../widgets/feedburner-widget.php:306
+msgid "Button Background Color"
+msgstr ""
+
+#: ../widgets/feedburner-widget.php:34
+msgid "Add simple feedburner form in your widget."
+msgstr ""
+
+#: ../widgets/feedburner-widget.php:36
+msgid "Feedburner Form (Idmuvi)"
+msgstr ""
+
+#: ../widgets/feedburner-widget.php:268
+msgid "Feedburner ID *(Required)"
+msgstr ""
+
+#: ../widgets/feedburner-widget.php:271
+msgid "Example: gianmr for http://feeds.feedburner.com/gianmr feed address."
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:34
+msgid "Most view movies with thumbnails widget. Require wp postview plugin."
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:36
+msgid "Most View Movies (Idmuvi)"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:228
+#: ../widgets/recent-posts-widget.php:193
+msgid ", "
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:381
+msgid "Popular range:"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:383
+msgid "Alltime"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:384
+msgid "1 Year"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:385
+msgid "2 Mounts"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:386
+msgid "1 Mount"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:387
+msgid "7 Days"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:390
+msgid "Select popular by most view."
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:398
+#: ../widgets/recent-posts-widget.php:347
+msgid "Show movie meta?"
+msgstr ""
+
+#: ../widgets/mostview-posts-widget.php:402
+msgid "Show view data?"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:34
+msgid "Recent movies with thumbnails widget."
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:36
+msgid "Recent Movies (Idmuvi)"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:326
+msgid "Orderby"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:328
+msgid "Date"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:329
+msgid "Random"
+msgstr ""
+
+#: ../widgets/recent-posts-widget.php:330
+msgid "Modified"
+msgstr ""
+
+#: ../widgets/search-widget.php:34
+msgid "Advance Movie Search widget."
+msgstr ""
+
+#: ../widgets/search-widget.php:36
+msgid "Movie Search (Idmuvi)"
+msgstr ""
+
+#: ../widgets/search-widget.php:70
+msgid "Enter Movie"
+msgstr ""
+
+#: ../widgets/search-widget.php:75
+msgid "All Type"
+msgstr ""
+
+#: ../widgets/search-widget.php:86
+msgid "TV Show"
+msgstr ""
+
+#: ../widgets/search-widget.php:95 ../widgets/search-widget.php:103
+msgid "By Index"
+msgstr ""
+
+#: ../widgets/search-widget.php:111
+msgid "Order"
+msgstr ""
+
+#: ../widgets/search-widget.php:117
+msgid "Order By Title"
+msgstr ""
+
+#: ../widgets/search-widget.php:123
+msgid "Order By Date"
+msgstr ""
+
+#: ../widgets/search-widget.php:129
+msgid "Order By Rating"
+msgstr ""
+
+#: ../widgets/search-widget.php:139
+msgid "All Genres"
+msgstr ""

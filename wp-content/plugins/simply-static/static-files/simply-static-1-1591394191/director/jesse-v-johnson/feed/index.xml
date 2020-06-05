@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jesse V. Johnson &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/director/jesse-v-johnson/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Feb 2017 12:33:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>Jesse V. Johnson &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Shawshank Redemption</title>
+		<link>https://layarbesar.ga/the-shawshank-redemption/</link>
+					<comments>https://layarbesar.ga/the-shawshank-redemption/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2017 12:33:44 +0000</pubDate>
+				<category><![CDATA[Crime]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[1940s]]></category>
+		<category><![CDATA[corruption]]></category>
+		<category><![CDATA[delinquent]]></category>
+		<category><![CDATA[escape from prison]]></category>
+		<category><![CDATA[first person narration]]></category>
+		<category><![CDATA[framed for murder]]></category>
+		<category><![CDATA[parole board]]></category>
+		<category><![CDATA[police brutality]]></category>
+		<category><![CDATA[prison]]></category>
+		<category><![CDATA[prison cell]]></category>
+		<category><![CDATA[wrongful imprisonment]]></category>
+		<category><![CDATA[감옥]]></category>
+		<category><![CDATA[교도소]]></category>
+		<category><![CDATA[탈옥]]></category>
+		<category><![CDATA[해피엔딩]]></category>
+		<category><![CDATA[희망적인]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=29</guid>
+
+					<description><![CDATA[Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates &#8212; including an older prisoner named Red &#8212; for his integrity and unquenchable sense of hope.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/the-shawshank-redemption/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

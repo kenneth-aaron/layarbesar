@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mel Gibson &#8211; LayarBesar</title>
+	<atom:link href="https://layarbesar.ga/director/mel-gibson/feed/" rel="self" type="application/rss+xml" />
+	<link>https://layarbesar.ga</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 12 Mar 2017 09:03:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://layarbesar.ga/wp-content/uploads/2020/06/cropped-favicon-32x32.png</url>
+	<title>Mel Gibson &#8211; LayarBesar</title>
+	<link>https://layarbesar.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hacksaw Ridge</title>
+		<link>https://layarbesar.ga/hacksaw-ridge/</link>
+					<comments>https://layarbesar.ga/hacksaw-ridge/#respond</comments>
+		
+		<dc:creator><![CDATA[kenneth]]></dc:creator>
+		<pubDate>Sun, 12 Mar 2017 09:03:36 +0000</pubDate>
+				<category><![CDATA[Drama]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[War]]></category>
+		<category><![CDATA[1940s]]></category>
+		<category><![CDATA[alcoholic]]></category>
+		<category><![CDATA[based on true events]]></category>
+		<category><![CDATA[based on true story]]></category>
+		<category><![CDATA[bible]]></category>
+		<category><![CDATA[biography]]></category>
+		<category><![CDATA[conscientious objector]]></category>
+		<category><![CDATA[gore]]></category>
+		<category><![CDATA[historical drama]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[medic]]></category>
+		<category><![CDATA[pacifism]]></category>
+		<category><![CDATA[religion]]></category>
+		<category><![CDATA[religious]]></category>
+		<category><![CDATA[soldier]]></category>
+		<category><![CDATA[u.s. military]]></category>
+		<category><![CDATA[violent father]]></category>
+		<category><![CDATA[war]]></category>
+		<category><![CDATA[war hero]]></category>
+		<category><![CDATA[world war ii]]></category>
+		<guid isPermaLink="false">http://demo.idtheme.com/muvipro/?p=156</guid>
+
+					<description><![CDATA[WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes&#160;[&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://layarbesar.ga/hacksaw-ridge/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
